@@ -14,8 +14,8 @@ def build_model(states, actions, h_nodes, h_act):
     return model
 
 
-def build_agent(model, actions, tmu, policy):
-    memory = SequentialMemory(limit=50000, window_length=1)
+def build_agent(model, actions, tmu, policy, ml):
+    memory = SequentialMemory(limit=ml, window_length=1)
     dqn = DQNAgent(model=model, memory=memory, policy=policy, nb_actions=actions, nb_steps_warmup=100,
                    target_model_update=tmu)
     return dqn

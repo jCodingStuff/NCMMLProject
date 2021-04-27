@@ -16,11 +16,11 @@ states = env.observation_space.shape[0]
 actions = env.action_space.n
 model = build_model(states, actions, [30, 30], ['relu', 'relu'])
 print(model.summary())
-dqn = build_agent(model, actions, 0.01, BoltzmannQPolicy())
+dqn = build_agent(model, actions, 0.01, BoltzmannQPolicy(), 50000)
 dqn.compile(Adam(lr=1e-3), metrics=['mae'])
 
 # Load weights
-dqn.load_weights('agents/dqnv13030.h5f')
+dqn.load_weights('agents/dqn_3030_trial.h5f')
 
 while True:
     ui.check_events(env, dqn)
