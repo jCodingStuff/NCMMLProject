@@ -1,0 +1,2000 @@
+Training for 5000000 steps ...
+Interval 1 (0 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: -0.3800
+200 episodes - episode_reward: -19.000 [-50.000, 60.000] - loss: 9.950 - mae: 20.031 - mean_q: 23.590
+
+Interval 2 (10000 steps performed)
+10000/10000 [==============================] - 46s 5ms/step - reward: -0.1190
+200 episodes - episode_reward: -5.950 [-50.000, 100.000] - loss: 28.096 - mae: 42.843 - mean_q: 47.999
+
+Interval 3 (20000 steps performed)
+10000/10000 [==============================] - 46s 5ms/step - reward: -0.0430
+200 episodes - episode_reward: -2.150 [-50.000, 110.000] - loss: 37.485 - mae: 52.359 - mean_q: 57.894
+
+Interval 4 (30000 steps performed)
+10000/10000 [==============================] - 47s 5ms/step - reward: 0.1380
+200 episodes - episode_reward: 6.900 [-50.000, 120.000] - loss: 35.050 - mae: 51.077 - mean_q: 56.227
+
+Interval 5 (40000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.1380
+200 episodes - episode_reward: 6.900 [-50.000, 180.000] - loss: 32.089 - mae: 48.324 - mean_q: 53.009
+
+Interval 6 (50000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.2140
+200 episodes - episode_reward: 10.700 [-50.000, 180.000] - loss: 30.206 - mae: 46.396 - mean_q: 50.909
+
+Interval 7 (60000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.2600
+200 episodes - episode_reward: 13.000 [-50.000, 120.000] - loss: 34.266 - mae: 48.802 - mean_q: 53.529
+
+Interval 8 (70000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.3440
+200 episodes - episode_reward: 17.200 [-50.000, 120.000] - loss: 35.545 - mae: 50.591 - mean_q: 55.387
+
+Interval 9 (80000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.5730
+200 episodes - episode_reward: 28.650 [-50.000, 130.000] - loss: 42.099 - mae: 55.405 - mean_q: 60.605
+
+Interval 10 (90000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.6790
+200 episodes - episode_reward: 33.950 [-50.000, 150.000] - loss: 52.523 - mae: 63.284 - mean_q: 69.142
+
+Interval 11 (100000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.9150
+200 episodes - episode_reward: 45.750 [-50.000, 160.000] - loss: 65.848 - mae: 72.041 - mean_q: 78.711
+
+Interval 12 (110000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.9070
+200 episodes - episode_reward: 45.350 [-50.000, 190.000] - loss: 79.606 - mae: 79.292 - mean_q: 86.513
+
+Interval 13 (120000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.1620
+200 episodes - episode_reward: 58.100 [-50.000, 200.000] - loss: 88.819 - mae: 84.368 - mean_q: 92.006
+
+Interval 14 (130000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.1080
+200 episodes - episode_reward: 55.400 [-50.000, 180.000] - loss: 101.229 - mae: 90.109 - mean_q: 98.219
+
+Interval 15 (140000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.1400
+200 episodes - episode_reward: 57.000 [-50.000, 200.000] - loss: 120.539 - mae: 99.708 - mean_q: 108.563
+
+Interval 16 (150000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.3640
+200 episodes - episode_reward: 68.200 [-50.000, 230.000] - loss: 136.583 - mae: 106.934 - mean_q: 116.590
+
+Interval 17 (160000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.5230
+200 episodes - episode_reward: 76.150 [-50.000, 190.000] - loss: 162.222 - mae: 116.929 - mean_q: 127.524
+
+Interval 18 (170000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.6180
+200 episodes - episode_reward: 80.900 [-50.000, 200.000] - loss: 173.694 - mae: 119.883 - mean_q: 130.717
+
+Interval 19 (180000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.6350
+200 episodes - episode_reward: 81.750 [-50.000, 200.000] - loss: 184.513 - mae: 123.197 - mean_q: 134.458
+
+Interval 20 (190000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.8430
+200 episodes - episode_reward: 92.150 [-40.000, 210.000] - loss: 202.902 - mae: 130.993 - mean_q: 142.929
+
+Interval 21 (200000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.8420
+200 episodes - episode_reward: 92.100 [-40.000, 210.000] - loss: 215.979 - mae: 132.651 - mean_q: 144.867
+
+Interval 22 (210000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.9330
+200 episodes - episode_reward: 96.650 [-50.000, 250.000] - loss: 226.004 - mae: 137.897 - mean_q: 150.512
+
+Interval 23 (220000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0100
+200 episodes - episode_reward: 100.500 [-50.000, 200.000] - loss: 241.952 - mae: 144.543 - mean_q: 157.634
+
+Interval 24 (230000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0590
+200 episodes - episode_reward: 102.950 [-50.000, 250.000] - loss: 249.650 - mae: 146.088 - mean_q: 159.332
+
+Interval 25 (240000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1070
+200 episodes - episode_reward: 105.350 [-40.000, 220.000] - loss: 248.534 - mae: 145.964 - mean_q: 159.019
+
+Interval 26 (250000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.8720
+200 episodes - episode_reward: 93.600 [-50.000, 220.000] - loss: 246.576 - mae: 144.850 - mean_q: 157.963
+
+Interval 27 (260000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0840
+200 episodes - episode_reward: 104.200 [-50.000, 240.000] - loss: 253.751 - mae: 147.223 - mean_q: 160.328
+
+Interval 28 (270000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2160
+200 episodes - episode_reward: 110.800 [-50.000, 210.000] - loss: 247.382 - mae: 145.886 - mean_q: 158.774
+
+Interval 29 (280000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1550
+200 episodes - episode_reward: 107.750 [-50.000, 240.000] - loss: 252.402 - mae: 147.331 - mean_q: 160.480
+
+Interval 30 (290000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1330: 0s
+200 episodes - episode_reward: 106.650 [-50.000, 240.000] - loss: 272.911 - mae: 151.163 - mean_q: 164.785
+
+Interval 31 (300000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2220
+200 episodes - episode_reward: 111.100 [-40.000, 240.000] - loss: 271.067 - mae: 151.507 - mean_q: 165.064
+
+Interval 32 (310000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4970
+200 episodes - episode_reward: 124.850 [-40.000, 250.000] - loss: 280.497 - mae: 154.717 - mean_q: 168.760
+
+Interval 33 (320000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1920
+200 episodes - episode_reward: 109.600 [-50.000, 240.000] - loss: 286.691 - mae: 155.548 - mean_q: 169.428
+
+Interval 34 (330000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.9900
+200 episodes - episode_reward: 99.500 [-50.000, 220.000] - loss: 277.863 - mae: 154.135 - mean_q: 167.947
+
+Interval 35 (340000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0120
+200 episodes - episode_reward: 100.600 [-50.000, 210.000] - loss: 268.581 - mae: 153.184 - mean_q: 166.567
+
+Interval 36 (350000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.9470
+200 episodes - episode_reward: 97.350 [-50.000, 260.000] - loss: 264.218 - mae: 150.607 - mean_q: 163.772
+
+Interval 37 (360000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0310
+200 episodes - episode_reward: 101.550 [-50.000, 210.000] - loss: 252.256 - mae: 146.528 - mean_q: 159.303
+
+Interval 38 (370000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2480
+200 episodes - episode_reward: 112.400 [-50.000, 250.000] - loss: 247.385 - mae: 145.237 - mean_q: 158.022
+
+Interval 39 (380000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.5230
+200 episodes - episode_reward: 126.150 [-30.000, 260.000] - loss: 246.313 - mae: 146.299 - mean_q: 159.047
+
+Interval 40 (390000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1590
+200 episodes - episode_reward: 107.950 [-50.000, 230.000] - loss: 250.150 - mae: 145.258 - mean_q: 158.026
+
+Interval 41 (400000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1560
+200 episodes - episode_reward: 107.800 [-40.000, 230.000] - loss: 250.209 - mae: 143.833 - mean_q: 156.670
+
+Interval 42 (410000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0140
+200 episodes - episode_reward: 100.700 [-50.000, 210.000] - loss: 246.988 - mae: 146.248 - mean_q: 159.224
+
+Interval 43 (420000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2660
+200 episodes - episode_reward: 113.300 [-50.000, 230.000] - loss: 244.387 - mae: 145.228 - mean_q: 158.030
+
+Interval 44 (430000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0440
+200 episodes - episode_reward: 102.200 [-50.000, 240.000] - loss: 257.203 - mae: 147.393 - mean_q: 160.582
+
+Interval 45 (440000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2940
+200 episodes - episode_reward: 114.700 [-50.000, 220.000] - loss: 247.704 - mae: 145.154 - mean_q: 158.221
+
+Interval 46 (450000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2300
+200 episodes - episode_reward: 111.500 [-40.000, 230.000] - loss: 246.982 - mae: 146.283 - mean_q: 159.369
+
+Interval 47 (460000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2700
+200 episodes - episode_reward: 113.500 [-50.000, 210.000] - loss: 247.825 - mae: 144.891 - mean_q: 157.598
+
+Interval 48 (470000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1610
+200 episodes - episode_reward: 108.050 [-40.000, 220.000] - loss: 235.511 - mae: 142.861 - mean_q: 155.212
+
+Interval 49 (480000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2250
+200 episodes - episode_reward: 111.250 [-50.000, 230.000] - loss: 241.899 - mae: 143.830 - mean_q: 156.173
+
+Interval 50 (490000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1660
+200 episodes - episode_reward: 108.300 [-40.000, 240.000] - loss: 243.718 - mae: 144.302 - mean_q: 156.749
+
+Interval 51 (500000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1070
+200 episodes - episode_reward: 105.350 [-50.000, 240.000] - loss: 247.489 - mae: 143.254 - mean_q: 155.891
+
+Interval 52 (510000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4350
+200 episodes - episode_reward: 121.750 [-30.000, 240.000] - loss: 247.500 - mae: 144.604 - mean_q: 157.316
+
+Interval 53 (520000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2330
+200 episodes - episode_reward: 111.650 [-30.000, 220.000] - loss: 248.272 - mae: 146.725 - mean_q: 159.525
+
+Interval 54 (530000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2430
+200 episodes - episode_reward: 112.150 [-50.000, 220.000] - loss: 243.406 - mae: 143.114 - mean_q: 155.982
+
+Interval 55 (540000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1800
+200 episodes - episode_reward: 109.000 [-40.000, 220.000] - loss: 233.142 - mae: 141.822 - mean_q: 154.575
+
+Interval 56 (550000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3480
+200 episodes - episode_reward: 117.400 [-40.000, 240.000] - loss: 232.511 - mae: 140.743 - mean_q: 153.390
+
+Interval 57 (560000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3930
+200 episodes - episode_reward: 119.650 [-30.000, 210.000] - loss: 229.290 - mae: 137.556 - mean_q: 150.006
+
+Interval 58 (570000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4780
+200 episodes - episode_reward: 123.900 [-30.000, 240.000] - loss: 230.884 - mae: 141.915 - mean_q: 154.560
+
+Interval 59 (580000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4780
+200 episodes - episode_reward: 123.900 [-40.000, 210.000] - loss: 238.542 - mae: 140.824 - mean_q: 153.364
+
+Interval 60 (590000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6030
+200 episodes - episode_reward: 130.150 [-50.000, 220.000] - loss: 242.650 - mae: 144.499 - mean_q: 157.534
+
+Interval 61 (600000 steps performed)
+10000/10000 [==============================] - ETA: 0s - reward: 2.286 - 48s 5ms/step - reward: 2.2860
+200 episodes - episode_reward: 114.300 [-50.000, 230.000] - loss: 266.091 - mae: 149.749 - mean_q: 163.183
+
+Interval 62 (610000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3840
+200 episodes - episode_reward: 119.200 [-30.000, 240.000] - loss: 257.411 - mae: 149.595 - mean_q: 162.780
+
+Interval 63 (620000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3410
+200 episodes - episode_reward: 117.050 [-50.000, 230.000] - loss: 243.301 - mae: 142.906 - mean_q: 155.332
+
+Interval 64 (630000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3760
+200 episodes - episode_reward: 118.800 [-50.000, 230.000] - loss: 231.389 - mae: 138.994 - mean_q: 151.078
+
+Interval 65 (640000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4590: 0s
+200 episodes - episode_reward: 122.950 [-40.000, 250.000] - loss: 227.879 - mae: 137.853 - mean_q: 149.804
+
+Interval 66 (650000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.5340
+200 episodes - episode_reward: 126.700 [-50.000, 250.000] - loss: 229.778 - mae: 138.155 - mean_q: 150.208
+
+Interval 67 (660000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.5160
+200 episodes - episode_reward: 125.800 [-50.000, 280.000] - loss: 240.458 - mae: 143.556 - mean_q: 156.100
+
+Interval 68 (670000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4530
+200 episodes - episode_reward: 122.650 [-50.000, 240.000] - loss: 265.156 - mae: 151.055 - mean_q: 164.149
+
+Interval 69 (680000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.7230
+200 episodes - episode_reward: 136.150 [-40.000, 250.000] - loss: 256.607 - mae: 147.566 - mean_q: 160.415
+
+Interval 70 (690000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6280
+200 episodes - episode_reward: 131.400 [-50.000, 280.000] - loss: 258.857 - mae: 148.940 - mean_q: 161.905
+
+Interval 71 (700000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.7010
+200 episodes - episode_reward: 135.050 [-50.000, 260.000] - loss: 260.379 - mae: 151.488 - mean_q: 164.480
+
+Interval 72 (710000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.8810
+200 episodes - episode_reward: 144.050 [-40.000, 290.000] - loss: 275.190 - mae: 153.891 - mean_q: 167.307
+
+Interval 73 (720000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6360: 0s - 
+200 episodes - episode_reward: 131.800 [-50.000, 270.000] - loss: 282.233 - mae: 154.991 - mean_q: 168.599
+
+Interval 74 (730000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.8690
+200 episodes - episode_reward: 143.450 [-50.000, 260.000] - loss: 288.679 - mae: 156.507 - mean_q: 170.232
+
+Interval 75 (740000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.7890
+200 episodes - episode_reward: 139.450 [-40.000, 260.000] - loss: 287.566 - mae: 156.362 - mean_q: 169.918
+
+Interval 76 (750000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9630
+200 episodes - episode_reward: 148.150 [-30.000, 270.000] - loss: 291.219 - mae: 155.093 - mean_q: 168.814
+
+Interval 77 (760000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.0110
+200 episodes - episode_reward: 150.550 [-30.000, 280.000] - loss: 298.450 - mae: 159.644 - mean_q: 173.650
+
+Interval 78 (770000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.7850
+200 episodes - episode_reward: 139.250 [-40.000, 260.000] - loss: 292.371 - mae: 157.896 - mean_q: 171.790
+
+Interval 79 (780000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9500
+200 episodes - episode_reward: 147.500 [-50.000, 260.000] - loss: 288.259 - mae: 158.111 - mean_q: 172.030
+
+Interval 80 (790000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9500
+200 episodes - episode_reward: 147.500 [-50.000, 250.000] - loss: 296.835 - mae: 159.669 - mean_q: 173.682
+
+Interval 81 (800000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.8260
+200 episodes - episode_reward: 141.300 [-40.000, 290.000] - loss: 294.055 - mae: 159.994 - mean_q: 174.086
+
+Interval 82 (810000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6150
+200 episodes - episode_reward: 130.750 [-40.000, 240.000] - loss: 304.156 - mae: 162.057 - mean_q: 176.283
+
+Interval 83 (820000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9150
+200 episodes - episode_reward: 145.750 [-30.000, 290.000] - loss: 290.110 - mae: 157.663 - mean_q: 171.348
+
+Interval 84 (830000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.0160
+200 episodes - episode_reward: 150.800 [-50.000, 270.000] - loss: 286.172 - mae: 156.993 - mean_q: 170.712
+
+Interval 85 (840000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9410
+200 episodes - episode_reward: 147.050 [-40.000, 250.000] - loss: 279.267 - mae: 155.684 - mean_q: 169.014
+
+Interval 86 (850000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.1780
+200 episodes - episode_reward: 158.900 [-40.000, 270.000] - loss: 282.484 - mae: 154.009 - mean_q: 167.259
+
+Interval 87 (860000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.3070
+200 episodes - episode_reward: 165.350 [10.000, 260.000] - loss: 293.426 - mae: 159.069 - mean_q: 172.575
+
+Interval 88 (870000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.8440
+200 episodes - episode_reward: 142.200 [-50.000, 330.000] - loss: 310.951 - mae: 163.770 - mean_q: 177.619
+
+Interval 89 (880000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6960
+200 episodes - episode_reward: 134.800 [-30.000, 280.000] - loss: 304.869 - mae: 162.928 - mean_q: 176.516
+
+Interval 90 (890000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.1190
+200 episodes - episode_reward: 155.950 [-50.000, 280.000] - loss: 299.923 - mae: 162.864 - mean_q: 176.842
+
+Interval 91 (900000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.7570
+200 episodes - episode_reward: 137.850 [-40.000, 290.000] - loss: 303.650 - mae: 161.915 - mean_q: 175.655
+
+Interval 92 (910000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9820
+200 episodes - episode_reward: 149.100 [-30.000, 250.000] - loss: 291.655 - mae: 158.368 - mean_q: 172.069
+
+Interval 93 (920000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.0240
+200 episodes - episode_reward: 151.200 [-50.000, 270.000] - loss: 289.751 - mae: 156.518 - mean_q: 170.126
+
+Interval 94 (930000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.3340
+200 episodes - episode_reward: 166.700 [-10.000, 280.000] - loss: 292.348 - mae: 158.001 - mean_q: 171.766
+
+Interval 95 (940000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.2440
+200 episodes - episode_reward: 162.200 [-30.000, 280.000] - loss: 302.663 - mae: 161.345 - mean_q: 175.053
+
+Interval 96 (950000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9640
+200 episodes - episode_reward: 148.200 [-40.000, 260.000] - loss: 311.437 - mae: 164.054 - mean_q: 177.812
+
+Interval 97 (960000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.3050
+200 episodes - episode_reward: 165.250 [-10.000, 300.000] - loss: 303.985 - mae: 163.271 - mean_q: 176.796
+
+Interval 98 (970000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.1860
+200 episodes - episode_reward: 159.300 [-50.000, 270.000] - loss: 301.901 - mae: 161.937 - mean_q: 175.106
+
+Interval 99 (980000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.2030
+200 episodes - episode_reward: 160.150 [-50.000, 280.000] - loss: 302.518 - mae: 159.406 - mean_q: 172.653
+
+Interval 100 (990000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.3230
+200 episodes - episode_reward: 166.150 [-10.000, 270.000] - loss: 298.763 - mae: 162.161 - mean_q: 175.612
+
+Interval 101 (1000000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.1980
+200 episodes - episode_reward: 159.900 [-30.000, 300.000] - loss: 308.134 - mae: 164.974 - mean_q: 178.492
+
+Interval 102 (1010000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.1290
+200 episodes - episode_reward: 156.450 [-40.000, 280.000] - loss: 313.238 - mae: 165.724 - mean_q: 179.172
+
+Interval 103 (1020000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.4170
+200 episodes - episode_reward: 170.850 [-50.000, 300.000] - loss: 306.524 - mae: 162.006 - mean_q: 175.457
+
+Interval 104 (1030000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.0980
+200 episodes - episode_reward: 154.900 [-50.000, 300.000] - loss: 310.201 - mae: 161.250 - mean_q: 174.705
+
+Interval 105 (1040000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.2200
+200 episodes - episode_reward: 161.000 [-30.000, 280.000] - loss: 294.949 - mae: 162.213 - mean_q: 175.580
+
+Interval 106 (1050000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.0270
+200 episodes - episode_reward: 151.350 [-40.000, 290.000] - loss: 301.221 - mae: 162.263 - mean_q: 175.627
+
+Interval 107 (1060000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.2540
+200 episodes - episode_reward: 162.700 [-20.000, 290.000] - loss: 299.201 - mae: 161.215 - mean_q: 174.528
+
+Interval 108 (1070000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.2960
+200 episodes - episode_reward: 164.800 [-40.000, 310.000] - loss: 304.305 - mae: 162.090 - mean_q: 175.715
+
+Interval 109 (1080000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.4150
+200 episodes - episode_reward: 170.750 [-10.000, 290.000] - loss: 313.849 - mae: 163.331 - mean_q: 177.062
+
+Interval 110 (1090000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.4660
+200 episodes - episode_reward: 173.300 [-30.000, 300.000] - loss: 315.807 - mae: 164.207 - mean_q: 177.830
+
+Interval 111 (1100000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.3830
+200 episodes - episode_reward: 169.150 [-50.000, 300.000] - loss: 320.017 - mae: 166.308 - mean_q: 180.054
+
+Interval 112 (1110000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.5550
+200 episodes - episode_reward: 177.750 [-20.000, 340.000] - loss: 326.522 - mae: 167.313 - mean_q: 181.242
+
+Interval 113 (1120000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.6300
+200 episodes - episode_reward: 181.500 [-30.000, 280.000] - loss: 323.805 - mae: 168.309 - mean_q: 182.231
+
+Interval 114 (1130000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.5830
+200 episodes - episode_reward: 179.150 [-10.000, 290.000] - loss: 338.396 - mae: 171.069 - mean_q: 185.176
+
+Interval 115 (1140000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.5570
+200 episodes - episode_reward: 177.850 [-10.000, 280.000] - loss: 345.351 - mae: 173.586 - mean_q: 188.105
+
+Interval 116 (1150000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.3560: 0s - reward: 3.3
+200 episodes - episode_reward: 167.800 [10.000, 300.000] - loss: 347.121 - mae: 173.708 - mean_q: 188.203
+
+Interval 117 (1160000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.4070
+200 episodes - episode_reward: 170.350 [-40.000, 290.000] - loss: 352.346 - mae: 173.733 - mean_q: 188.384
+
+Interval 118 (1170000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.2890
+200 episodes - episode_reward: 164.450 [-30.000, 300.000] - loss: 344.087 - mae: 170.142 - mean_q: 184.493
+
+Interval 119 (1180000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.6640
+200 episodes - episode_reward: 183.200 [-50.000, 290.000] - loss: 327.843 - mae: 167.512 - mean_q: 181.806
+
+Interval 120 (1190000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.6500
+200 episodes - episode_reward: 182.500 [-50.000, 290.000] - loss: 335.774 - mae: 170.823 - mean_q: 185.477
+
+Interval 121 (1200000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.7600
+200 episodes - episode_reward: 188.000 [0.000, 300.000] - loss: 353.574 - mae: 174.372 - mean_q: 189.207
+
+Interval 122 (1210000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.6650
+200 episodes - episode_reward: 183.250 [-40.000, 320.000] - loss: 358.467 - mae: 176.689 - mean_q: 191.588
+
+Interval 123 (1220000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.7510
+200 episodes - episode_reward: 187.550 [-50.000, 320.000] - loss: 346.429 - mae: 173.195 - mean_q: 187.773
+
+Interval 124 (1230000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.2700
+200 episodes - episode_reward: 163.500 [-40.000, 310.000] - loss: 362.871 - mae: 174.423 - mean_q: 189.105
+
+Interval 125 (1240000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.1210
+200 episodes - episode_reward: 156.050 [-20.000, 280.000] - loss: 363.783 - mae: 176.736 - mean_q: 191.753
+
+Interval 126 (1250000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3040
+200 episodes - episode_reward: 115.200 [-40.000, 260.000] - loss: 371.051 - mae: 178.818 - mean_q: 193.571
+
+Interval 127 (1260000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4230
+200 episodes - episode_reward: 121.150 [-40.000, 280.000] - loss: 322.146 - mae: 168.145 - mean_q: 181.701
+
+Interval 128 (1270000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6860
+200 episodes - episode_reward: 134.300 [-50.000, 250.000] - loss: 301.154 - mae: 162.993 - mean_q: 175.923
+
+Interval 129 (1280000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6740
+200 episodes - episode_reward: 133.700 [-50.000, 250.000] - loss: 296.169 - mae: 159.682 - mean_q: 172.746
+
+Interval 130 (1290000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6980
+200 episodes - episode_reward: 134.900 [-40.000, 260.000] - loss: 281.286 - mae: 155.618 - mean_q: 168.217
+
+Interval 131 (1300000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.0720
+200 episodes - episode_reward: 153.600 [-10.000, 250.000] - loss: 268.950 - mae: 154.200 - mean_q: 166.876
+
+Interval 132 (1310000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9670
+200 episodes - episode_reward: 148.350 [-30.000, 260.000] - loss: 269.987 - mae: 153.353 - mean_q: 165.985
+
+Interval 133 (1320000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.8580
+200 episodes - episode_reward: 142.900 [-50.000, 240.000] - loss: 274.211 - mae: 153.696 - mean_q: 166.297
+
+Interval 134 (1330000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.5090
+200 episodes - episode_reward: 125.450 [-30.000, 240.000] - loss: 263.201 - mae: 149.646 - mean_q: 161.880
+
+Interval 135 (1340000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.5980
+200 episodes - episode_reward: 129.900 [-50.000, 260.000] - loss: 251.709 - mae: 147.262 - mean_q: 159.390
+
+Interval 136 (1350000 steps performed)
+10000/10000 [==============================] - 50s 5ms/step - reward: 2.6800
+200 episodes - episode_reward: 134.000 [-40.000, 250.000] - loss: 251.628 - mae: 147.786 - mean_q: 159.724
+
+Interval 137 (1360000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6450
+200 episodes - episode_reward: 132.250 [-30.000, 230.000] - loss: 245.008 - mae: 144.549 - mean_q: 156.348
+
+Interval 138 (1370000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.5880
+200 episodes - episode_reward: 129.400 [-50.000, 250.000] - loss: 234.312 - mae: 141.566 - mean_q: 153.253
+
+Interval 139 (1380000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4870
+200 episodes - episode_reward: 124.350 [-40.000, 250.000] - loss: 233.408 - mae: 141.043 - mean_q: 152.789
+
+Interval 140 (1390000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.8470
+200 episodes - episode_reward: 142.350 [-30.000, 240.000] - loss: 229.537 - mae: 140.111 - mean_q: 151.896
+
+Interval 141 (1400000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.8570
+200 episodes - episode_reward: 142.850 [-50.000, 260.000] - loss: 242.705 - mae: 145.048 - mean_q: 157.253
+
+Interval 142 (1410000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.7980
+200 episodes - episode_reward: 139.900 [-40.000, 240.000] - loss: 253.362 - mae: 147.075 - mean_q: 159.653
+
+Interval 143 (1420000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.7110
+200 episodes - episode_reward: 135.550 [-20.000, 260.000] - loss: 261.850 - mae: 149.742 - mean_q: 162.338
+
+Interval 144 (1430000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.8530
+200 episodes - episode_reward: 142.650 [-50.000, 260.000] - loss: 266.161 - mae: 150.523 - mean_q: 163.039
+
+Interval 145 (1440000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.7150
+200 episodes - episode_reward: 135.750 [-30.000, 270.000] - loss: 264.143 - mae: 150.033 - mean_q: 162.821
+
+Interval 146 (1450000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9030
+200 episodes - episode_reward: 145.150 [-40.000, 270.000] - loss: 264.017 - mae: 149.237 - mean_q: 161.808
+
+Interval 147 (1460000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9240
+200 episodes - episode_reward: 146.200 [-50.000, 250.000] - loss: 250.332 - mae: 146.159 - mean_q: 158.324
+
+Interval 148 (1470000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9080
+200 episodes - episode_reward: 145.400 [-50.000, 260.000] - loss: 249.218 - mae: 145.727 - mean_q: 158.084
+
+Interval 149 (1480000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.1090
+200 episodes - episode_reward: 155.450 [-40.000, 270.000] - loss: 259.503 - mae: 149.726 - mean_q: 162.437
+
+Interval 150 (1490000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9230
+200 episodes - episode_reward: 146.150 [-40.000, 250.000] - loss: 257.485 - mae: 147.317 - mean_q: 159.890
+
+Interval 151 (1500000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9070
+200 episodes - episode_reward: 145.350 [-20.000, 260.000] - loss: 257.379 - mae: 146.406 - mean_q: 158.841
+
+Interval 152 (1510000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.7460
+200 episodes - episode_reward: 137.300 [-30.000, 260.000] - loss: 248.982 - mae: 145.930 - mean_q: 158.149
+
+Interval 153 (1520000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.9290
+200 episodes - episode_reward: 146.450 [-50.000, 260.000] - loss: 252.336 - mae: 144.622 - mean_q: 156.936
+
+Interval 154 (1530000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 3.1110
+200 episodes - episode_reward: 155.550 [-40.000, 270.000] - loss: 248.556 - mae: 144.398 - mean_q: 156.565
+
+Interval 155 (1540000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.8150
+200 episodes - episode_reward: 140.750 [-40.000, 240.000] - loss: 260.409 - mae: 148.896 - mean_q: 161.450
+
+Interval 156 (1550000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.5760
+200 episodes - episode_reward: 128.800 [-40.000, 260.000] - loss: 267.190 - mae: 153.507 - mean_q: 166.527
+
+Interval 157 (1560000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.5910
+200 episodes - episode_reward: 129.550 [-40.000, 260.000] - loss: 274.149 - mae: 153.639 - mean_q: 166.491
+
+Interval 158 (1570000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6260
+200 episodes - episode_reward: 131.300 [-50.000, 240.000] - loss: 253.798 - mae: 146.696 - mean_q: 159.130
+
+Interval 159 (1580000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3840
+200 episodes - episode_reward: 119.200 [-50.000, 250.000] - loss: 244.828 - mae: 142.185 - mean_q: 154.388
+
+Interval 160 (1590000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6710
+200 episodes - episode_reward: 133.550 [-50.000, 220.000] - loss: 235.969 - mae: 139.825 - mean_q: 151.949
+
+Interval 161 (1600000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6540
+200 episodes - episode_reward: 132.700 [-50.000, 280.000] - loss: 230.374 - mae: 140.408 - mean_q: 152.456
+
+Interval 162 (1610000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.6040
+200 episodes - episode_reward: 130.200 [-40.000, 260.000] - loss: 226.770 - mae: 139.102 - mean_q: 150.945
+
+Interval 163 (1620000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3520
+200 episodes - episode_reward: 117.600 [-40.000, 250.000] - loss: 225.845 - mae: 138.171 - mean_q: 149.553
+
+Interval 164 (1630000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1710
+200 episodes - episode_reward: 108.550 [-40.000, 200.000] - loss: 220.161 - mae: 136.206 - mean_q: 147.410
+
+Interval 165 (1640000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1510
+200 episodes - episode_reward: 107.550 [-50.000, 220.000] - loss: 206.461 - mae: 133.094 - mean_q: 143.909
+
+Interval 166 (1650000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2220
+200 episodes - episode_reward: 111.100 [-50.000, 220.000] - loss: 188.993 - mae: 125.807 - mean_q: 136.142
+
+Interval 167 (1660000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4100
+200 episodes - episode_reward: 120.500 [-40.000, 220.000] - loss: 175.479 - mae: 121.226 - mean_q: 131.548
+
+Interval 168 (1670000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1780
+200 episodes - episode_reward: 108.900 [-50.000, 200.000] - loss: 168.183 - mae: 118.771 - mean_q: 128.718
+
+Interval 169 (1680000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3090
+200 episodes - episode_reward: 115.450 [-40.000, 210.000] - loss: 162.170 - mae: 117.841 - mean_q: 127.675
+
+Interval 170 (1690000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3070
+200 episodes - episode_reward: 115.350 [-20.000, 220.000] - loss: 161.352 - mae: 116.771 - mean_q: 126.576
+
+Interval 171 (1700000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.9790
+200 episodes - episode_reward: 98.950 [-50.000, 210.000] - loss: 161.959 - mae: 116.353 - mean_q: 126.081
+
+Interval 172 (1710000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1680
+200 episodes - episode_reward: 108.400 [-40.000, 220.000] - loss: 157.898 - mae: 115.795 - mean_q: 125.463
+
+Interval 173 (1720000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0930
+200 episodes - episode_reward: 104.650 [-50.000, 190.000] - loss: 150.969 - mae: 113.660 - mean_q: 123.210
+
+Interval 174 (1730000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0540
+200 episodes - episode_reward: 102.700 [-40.000, 200.000] - loss: 153.499 - mae: 112.504 - mean_q: 121.937
+
+Interval 175 (1740000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3550
+200 episodes - episode_reward: 117.750 [-40.000, 210.000] - loss: 149.679 - mae: 112.509 - mean_q: 122.034
+
+Interval 176 (1750000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2200
+200 episodes - episode_reward: 111.000 [-30.000, 220.000] - loss: 147.078 - mae: 112.841 - mean_q: 122.474
+
+Interval 177 (1760000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0600
+200 episodes - episode_reward: 103.000 [-50.000, 190.000] - loss: 151.560 - mae: 112.763 - mean_q: 122.442
+
+Interval 178 (1770000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2710
+200 episodes - episode_reward: 113.550 [-50.000, 220.000] - loss: 147.955 - mae: 111.554 - mean_q: 121.145
+
+Interval 179 (1780000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1830
+200 episodes - episode_reward: 109.150 [-50.000, 210.000] - loss: 149.685 - mae: 112.332 - mean_q: 122.104
+
+Interval 180 (1790000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1510
+200 episodes - episode_reward: 107.550 [-20.000, 230.000] - loss: 147.088 - mae: 111.396 - mean_q: 120.832
+
+Interval 181 (1800000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0950
+200 episodes - episode_reward: 104.750 [-40.000, 210.000] - loss: 144.984 - mae: 110.457 - mean_q: 119.904
+
+Interval 182 (1810000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3140
+200 episodes - episode_reward: 115.700 [-40.000, 200.000] - loss: 145.753 - mae: 109.799 - mean_q: 119.176
+
+Interval 183 (1820000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2790
+200 episodes - episode_reward: 113.950 [-50.000, 200.000] - loss: 146.237 - mae: 110.762 - mean_q: 120.198
+
+Interval 184 (1830000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1870
+200 episodes - episode_reward: 109.350 [-50.000, 210.000] - loss: 143.906 - mae: 110.992 - mean_q: 120.296
+
+Interval 185 (1840000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1800
+200 episodes - episode_reward: 109.000 [-50.000, 210.000] - loss: 144.509 - mae: 111.454 - mean_q: 120.819
+
+Interval 186 (1850000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2300
+200 episodes - episode_reward: 111.500 [-50.000, 210.000] - loss: 149.980 - mae: 112.246 - mean_q: 121.825
+
+Interval 187 (1860000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1800
+200 episodes - episode_reward: 109.000 [-40.000, 200.000] - loss: 147.603 - mae: 112.375 - mean_q: 121.924
+
+Interval 188 (1870000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3080
+200 episodes - episode_reward: 115.400 [-20.000, 210.000] - loss: 149.619 - mae: 112.697 - mean_q: 122.276
+
+Interval 189 (1880000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3310
+200 episodes - episode_reward: 116.550 [-10.000, 200.000] - loss: 156.630 - mae: 113.922 - mean_q: 123.529
+
+Interval 190 (1890000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1310
+200 episodes - episode_reward: 106.550 [-50.000, 200.000] - loss: 153.026 - mae: 113.324 - mean_q: 122.794
+
+Interval 191 (1900000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2250
+200 episodes - episode_reward: 111.250 [-40.000, 200.000] - loss: 146.340 - mae: 111.282 - mean_q: 120.407
+
+Interval 192 (1910000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2080
+200 episodes - episode_reward: 110.400 [-50.000, 220.000] - loss: 145.493 - mae: 109.826 - mean_q: 119.034
+
+Interval 193 (1920000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1870
+200 episodes - episode_reward: 109.350 [-40.000, 200.000] - loss: 153.775 - mae: 114.510 - mean_q: 124.128
+
+Interval 194 (1930000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2130
+200 episodes - episode_reward: 110.650 [-30.000, 220.000] - loss: 161.797 - mae: 116.457 - mean_q: 126.176
+
+Interval 195 (1940000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2850
+200 episodes - episode_reward: 114.250 [-50.000, 190.000] - loss: 155.473 - mae: 115.712 - mean_q: 125.227
+
+Interval 196 (1950000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3200
+200 episodes - episode_reward: 116.000 [-50.000, 190.000] - loss: 158.270 - mae: 115.251 - mean_q: 124.775
+
+Interval 197 (1960000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2960
+200 episodes - episode_reward: 114.800 [-50.000, 230.000] - loss: 152.635 - mae: 114.695 - mean_q: 124.159
+
+Interval 198 (1970000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1040
+200 episodes - episode_reward: 105.200 [-40.000, 210.000] - loss: 146.205 - mae: 111.808 - mean_q: 120.885
+
+Interval 199 (1980000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1880
+200 episodes - episode_reward: 109.400 [-30.000, 220.000] - loss: 140.412 - mae: 108.507 - mean_q: 117.389
+
+Interval 200 (1990000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1650
+200 episodes - episode_reward: 108.250 [-40.000, 210.000] - loss: 142.545 - mae: 109.182 - mean_q: 118.058
+
+Interval 201 (2000000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3210
+200 episodes - episode_reward: 116.050 [-40.000, 200.000] - loss: 137.810 - mae: 108.503 - mean_q: 117.332
+
+Interval 202 (2010000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1800
+200 episodes - episode_reward: 109.000 [-50.000, 200.000] - loss: 138.553 - mae: 108.174 - mean_q: 117.003
+
+Interval 203 (2020000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4140
+200 episodes - episode_reward: 120.700 [-30.000, 220.000] - loss: 136.535 - mae: 107.370 - mean_q: 116.162
+
+Interval 204 (2030000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2000
+200 episodes - episode_reward: 110.000 [-30.000, 200.000] - loss: 142.681 - mae: 108.793 - mean_q: 117.652
+
+Interval 205 (2040000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2380
+200 episodes - episode_reward: 111.900 [-20.000, 200.000] - loss: 140.469 - mae: 110.343 - mean_q: 119.233
+
+Interval 206 (2050000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1970
+200 episodes - episode_reward: 109.850 [-40.000, 200.000] - loss: 143.419 - mae: 109.613 - mean_q: 118.276
+
+Interval 207 (2060000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1260
+200 episodes - episode_reward: 106.300 [-50.000, 190.000] - loss: 136.609 - mae: 106.202 - mean_q: 114.707
+
+Interval 208 (2070000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1140
+200 episodes - episode_reward: 105.700 [-50.000, 210.000] - loss: 136.943 - mae: 108.262 - mean_q: 117.199
+
+Interval 209 (2080000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2360
+200 episodes - episode_reward: 111.800 [-40.000, 220.000] - loss: 149.498 - mae: 113.164 - mean_q: 122.535
+
+Interval 210 (2090000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1930
+200 episodes - episode_reward: 109.650 [-20.000, 200.000] - loss: 140.446 - mae: 110.673 - mean_q: 119.709
+
+Interval 211 (2100000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4000: 0s - reward: 
+200 episodes - episode_reward: 120.000 [-10.000, 230.000] - loss: 142.224 - mae: 110.018 - mean_q: 119.138
+
+Interval 212 (2110000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3640
+200 episodes - episode_reward: 118.200 [-50.000, 220.000] - loss: 144.978 - mae: 110.578 - mean_q: 119.771
+
+Interval 213 (2120000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1550
+200 episodes - episode_reward: 107.750 [-50.000, 190.000] - loss: 145.973 - mae: 111.105 - mean_q: 120.331
+
+Interval 214 (2130000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1860
+200 episodes - episode_reward: 109.300 [-30.000, 200.000] - loss: 141.358 - mae: 110.153 - mean_q: 119.217
+
+Interval 215 (2140000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3940
+200 episodes - episode_reward: 119.700 [-10.000, 210.000] - loss: 143.521 - mae: 109.964 - mean_q: 119.183
+
+Interval 216 (2150000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3270
+200 episodes - episode_reward: 116.350 [-40.000, 230.000] - loss: 151.325 - mae: 112.399 - mean_q: 121.812
+
+Interval 217 (2160000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1460
+200 episodes - episode_reward: 107.300 [-50.000, 190.000] - loss: 145.340 - mae: 111.326 - mean_q: 120.660
+
+Interval 218 (2170000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3440
+200 episodes - episode_reward: 117.200 [-50.000, 200.000] - loss: 148.475 - mae: 111.961 - mean_q: 121.374
+
+Interval 219 (2180000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2520
+200 episodes - episode_reward: 112.600 [-50.000, 210.000] - loss: 153.138 - mae: 113.570 - mean_q: 123.154
+
+Interval 220 (2190000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2690
+200 episodes - episode_reward: 113.450 [-10.000, 220.000] - loss: 158.361 - mae: 114.485 - mean_q: 124.218
+
+Interval 221 (2200000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3270
+200 episodes - episode_reward: 116.350 [-40.000, 210.000] - loss: 150.625 - mae: 113.292 - mean_q: 122.962
+
+Interval 222 (2210000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3550
+200 episodes - episode_reward: 117.750 [-40.000, 180.000] - loss: 148.142 - mae: 112.102 - mean_q: 121.535
+
+Interval 223 (2220000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3400
+200 episodes - episode_reward: 117.000 [-30.000, 200.000] - loss: 153.387 - mae: 112.107 - mean_q: 121.703
+
+Interval 224 (2230000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2400
+200 episodes - episode_reward: 112.000 [-40.000, 210.000] - loss: 150.145 - mae: 112.424 - mean_q: 122.000
+
+Interval 225 (2240000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2220
+200 episodes - episode_reward: 111.100 [-50.000, 210.000] - loss: 153.286 - mae: 113.251 - mean_q: 122.675
+
+Interval 226 (2250000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3000
+200 episodes - episode_reward: 115.000 [-30.000, 220.000] - loss: 145.845 - mae: 109.980 - mean_q: 119.199
+
+Interval 227 (2260000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2580: 
+200 episodes - episode_reward: 112.900 [-50.000, 210.000] - loss: 145.948 - mae: 111.535 - mean_q: 120.773
+
+Interval 228 (2270000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1910
+200 episodes - episode_reward: 109.550 [-50.000, 210.000] - loss: 149.461 - mae: 111.268 - mean_q: 120.390
+
+Interval 229 (2280000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1990
+200 episodes - episode_reward: 109.950 [-40.000, 190.000] - loss: 143.684 - mae: 109.844 - mean_q: 118.968
+
+Interval 230 (2290000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4260
+200 episodes - episode_reward: 121.300 [-10.000, 220.000] - loss: 145.410 - mae: 110.597 - mean_q: 119.888
+
+Interval 231 (2300000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2780
+200 episodes - episode_reward: 113.900 [-50.000, 250.000] - loss: 142.400 - mae: 109.429 - mean_q: 118.532
+
+Interval 232 (2310000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3200
+200 episodes - episode_reward: 116.000 [-20.000, 210.000] - loss: 141.118 - mae: 109.184 - mean_q: 118.532
+
+Interval 233 (2320000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2450
+200 episodes - episode_reward: 112.250 [-50.000, 200.000] - loss: 144.415 - mae: 109.780 - mean_q: 119.217
+
+Interval 234 (2330000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2820
+200 episodes - episode_reward: 114.100 [-30.000, 210.000] - loss: 145.033 - mae: 111.041 - mean_q: 120.465
+
+Interval 235 (2340000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3060
+200 episodes - episode_reward: 115.300 [-20.000, 190.000] - loss: 141.893 - mae: 109.339 - mean_q: 118.549
+
+Interval 236 (2350000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2670
+200 episodes - episode_reward: 113.350 [-40.000, 230.000] - loss: 142.492 - mae: 109.892 - mean_q: 119.260
+
+Interval 237 (2360000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3880
+200 episodes - episode_reward: 119.400 [0.000, 250.000] - loss: 146.518 - mae: 110.489 - mean_q: 119.997
+
+Interval 238 (2370000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2010
+200 episodes - episode_reward: 110.050 [-50.000, 190.000] - loss: 142.039 - mae: 108.849 - mean_q: 117.804
+
+Interval 239 (2380000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2210
+200 episodes - episode_reward: 111.050 [-40.000, 200.000] - loss: 139.604 - mae: 108.911 - mean_q: 117.757
+
+Interval 240 (2390000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2160
+200 episodes - episode_reward: 110.800 [-50.000, 210.000] - loss: 133.509 - mae: 105.964 - mean_q: 114.486
+
+Interval 241 (2400000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3910
+200 episodes - episode_reward: 119.550 [-30.000, 230.000] - loss: 130.671 - mae: 105.421 - mean_q: 113.905
+
+Interval 242 (2410000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2060
+200 episodes - episode_reward: 110.300 [-30.000, 200.000] - loss: 134.712 - mae: 106.417 - mean_q: 115.092
+
+Interval 243 (2420000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1720
+200 episodes - episode_reward: 108.600 [-50.000, 210.000] - loss: 136.475 - mae: 107.155 - mean_q: 116.007
+
+Interval 244 (2430000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2480
+200 episodes - episode_reward: 112.400 [-50.000, 200.000] - loss: 134.970 - mae: 106.556 - mean_q: 115.438
+
+Interval 245 (2440000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3640
+200 episodes - episode_reward: 118.200 [-40.000, 190.000] - loss: 144.104 - mae: 110.081 - mean_q: 119.456
+
+Interval 246 (2450000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3640
+200 episodes - episode_reward: 118.200 [-10.000, 220.000] - loss: 149.744 - mae: 112.600 - mean_q: 122.153
+
+Interval 247 (2460000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2240
+200 episodes - episode_reward: 111.200 [-50.000, 190.000] - loss: 152.138 - mae: 113.912 - mean_q: 123.627
+
+Interval 248 (2470000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1690
+200 episodes - episode_reward: 108.450 [-40.000, 210.000] - loss: 156.281 - mae: 115.222 - mean_q: 124.957
+
+Interval 249 (2480000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2360
+200 episodes - episode_reward: 111.800 [-20.000, 210.000] - loss: 151.596 - mae: 113.019 - mean_q: 122.519
+
+Interval 250 (2490000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3170
+200 episodes - episode_reward: 115.850 [-20.000, 210.000] - loss: 147.556 - mae: 111.714 - mean_q: 121.102
+
+Interval 251 (2500000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2310
+200 episodes - episode_reward: 111.550 [-50.000, 220.000] - loss: 154.304 - mae: 114.624 - mean_q: 124.100
+
+Interval 252 (2510000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2760
+200 episodes - episode_reward: 113.800 [-50.000, 190.000] - loss: 149.275 - mae: 113.508 - mean_q: 122.627
+
+Interval 253 (2520000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4180
+200 episodes - episode_reward: 120.900 [-10.000, 210.000] - loss: 147.487 - mae: 110.416 - mean_q: 119.391
+
+Interval 254 (2530000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2400
+200 episodes - episode_reward: 112.000 [-20.000, 200.000] - loss: 144.599 - mae: 111.151 - mean_q: 120.386
+
+Interval 255 (2540000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3250
+200 episodes - episode_reward: 116.250 [-40.000, 210.000] - loss: 145.115 - mae: 110.699 - mean_q: 119.812
+
+Interval 256 (2550000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2210
+200 episodes - episode_reward: 111.050 [-30.000, 220.000] - loss: 147.429 - mae: 110.945 - mean_q: 120.185
+
+Interval 257 (2560000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3760
+200 episodes - episode_reward: 118.800 [-50.000, 210.000] - loss: 140.301 - mae: 108.378 - mean_q: 117.372
+
+Interval 258 (2570000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3970
+200 episodes - episode_reward: 119.850 [-50.000, 210.000] - loss: 137.087 - mae: 107.620 - mean_q: 116.410
+
+Interval 259 (2580000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3910
+200 episodes - episode_reward: 119.550 [-40.000, 230.000] - loss: 134.208 - mae: 106.730 - mean_q: 115.541
+
+Interval 260 (2590000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2270
+200 episodes - episode_reward: 111.350 [-40.000, 210.000] - loss: 139.200 - mae: 107.225 - mean_q: 116.178
+
+Interval 261 (2600000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2570
+200 episodes - episode_reward: 112.850 [-50.000, 190.000] - loss: 137.968 - mae: 108.480 - mean_q: 117.634
+
+Interval 262 (2610000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3690
+200 episodes - episode_reward: 118.450 [-10.000, 210.000] - loss: 141.074 - mae: 108.706 - mean_q: 117.776
+
+Interval 263 (2620000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1850
+200 episodes - episode_reward: 109.250 [-40.000, 200.000] - loss: 138.789 - mae: 108.484 - mean_q: 117.519
+
+Interval 264 (2630000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2640
+200 episodes - episode_reward: 113.200 [-50.000, 200.000] - loss: 140.967 - mae: 108.723 - mean_q: 117.708
+
+Interval 265 (2640000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2000
+200 episodes - episode_reward: 110.000 [-40.000, 180.000] - loss: 133.361 - mae: 105.756 - mean_q: 114.497
+
+Interval 266 (2650000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2450
+200 episodes - episode_reward: 112.250 [-20.000, 190.000] - loss: 129.980 - mae: 102.268 - mean_q: 110.920
+
+Interval 267 (2660000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3610
+200 episodes - episode_reward: 118.050 [-50.000, 200.000] - loss: 132.464 - mae: 105.445 - mean_q: 114.235
+
+Interval 268 (2670000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2180
+200 episodes - episode_reward: 110.900 [-50.000, 210.000] - loss: 136.532 - mae: 107.701 - mean_q: 116.531
+
+Interval 269 (2680000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2870
+200 episodes - episode_reward: 114.350 [-40.000, 210.000] - loss: 135.853 - mae: 105.945 - mean_q: 114.780
+
+Interval 270 (2690000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2430
+200 episodes - episode_reward: 112.150 [-50.000, 210.000] - loss: 134.957 - mae: 105.514 - mean_q: 114.268
+
+Interval 271 (2700000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3220
+200 episodes - episode_reward: 116.100 [-40.000, 240.000] - loss: 133.730 - mae: 105.363 - mean_q: 114.055
+
+Interval 272 (2710000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3800
+200 episodes - episode_reward: 119.000 [-50.000, 190.000] - loss: 137.369 - mae: 106.964 - mean_q: 116.055
+
+Interval 273 (2720000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2550
+200 episodes - episode_reward: 112.750 [-10.000, 220.000] - loss: 142.875 - mae: 110.310 - mean_q: 119.639
+
+Interval 274 (2730000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2330
+200 episodes - episode_reward: 111.650 [-40.000, 240.000] - loss: 141.132 - mae: 107.760 - mean_q: 116.558
+
+Interval 275 (2740000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1590
+200 episodes - episode_reward: 107.950 [-50.000, 200.000] - loss: 127.399 - mae: 103.161 - mean_q: 111.479
+
+Interval 276 (2750000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3230
+200 episodes - episode_reward: 116.150 [-40.000, 190.000] - loss: 123.250 - mae: 102.497 - mean_q: 110.723
+
+Interval 277 (2760000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3320
+200 episodes - episode_reward: 116.600 [-40.000, 210.000] - loss: 122.146 - mae: 101.376 - mean_q: 109.610
+
+Interval 278 (2770000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3570
+200 episodes - episode_reward: 117.850 [-40.000, 200.000] - loss: 125.930 - mae: 102.832 - mean_q: 111.153
+
+Interval 279 (2780000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3770
+200 episodes - episode_reward: 118.850 [-30.000, 210.000] - loss: 132.962 - mae: 106.064 - mean_q: 114.782
+
+Interval 280 (2790000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2910
+200 episodes - episode_reward: 114.550 [-40.000, 210.000] - loss: 136.999 - mae: 107.756 - mean_q: 116.605
+
+Interval 281 (2800000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4850
+200 episodes - episode_reward: 124.250 [-40.000, 220.000] - loss: 140.698 - mae: 110.343 - mean_q: 119.220
+
+Interval 282 (2810000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3380
+200 episodes - episode_reward: 116.900 [-40.000, 200.000] - loss: 141.683 - mae: 110.516 - mean_q: 119.391
+
+Interval 283 (2820000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4500
+200 episodes - episode_reward: 122.500 [-10.000, 210.000] - loss: 144.185 - mae: 110.856 - mean_q: 119.791
+
+Interval 284 (2830000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1940
+200 episodes - episode_reward: 109.700 [-50.000, 190.000] - loss: 141.310 - mae: 108.774 - mean_q: 117.566
+
+Interval 285 (2840000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2750
+200 episodes - episode_reward: 113.750 [-50.000, 230.000] - loss: 139.941 - mae: 108.388 - mean_q: 117.196
+
+Interval 286 (2850000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4620
+200 episodes - episode_reward: 123.100 [-50.000, 210.000] - loss: 141.895 - mae: 107.870 - mean_q: 116.719
+
+Interval 287 (2860000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3170
+200 episodes - episode_reward: 115.850 [-40.000, 210.000] - loss: 136.034 - mae: 107.398 - mean_q: 116.044
+
+Interval 288 (2870000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3450
+200 episodes - episode_reward: 117.250 [-50.000, 210.000] - loss: 133.426 - mae: 105.600 - mean_q: 114.336
+
+Interval 289 (2880000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3670
+200 episodes - episode_reward: 118.350 [-10.000, 210.000] - loss: 138.026 - mae: 108.474 - mean_q: 117.504
+
+Interval 290 (2890000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4410
+200 episodes - episode_reward: 122.050 [10.000, 210.000] - loss: 135.768 - mae: 106.601 - mean_q: 115.428
+
+Interval 291 (2900000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3010
+200 episodes - episode_reward: 115.050 [-30.000, 230.000] - loss: 136.111 - mae: 106.836 - mean_q: 115.444
+
+Interval 292 (2910000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2610
+200 episodes - episode_reward: 113.050 [-50.000, 210.000] - loss: 133.377 - mae: 106.992 - mean_q: 115.423
+
+Interval 293 (2920000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3150
+200 episodes - episode_reward: 115.750 [-50.000, 200.000] - loss: 134.244 - mae: 105.649 - mean_q: 114.119
+
+Interval 294 (2930000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4370
+200 episodes - episode_reward: 121.850 [-30.000, 210.000] - loss: 131.849 - mae: 105.171 - mean_q: 113.594
+
+Interval 295 (2940000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 1.9770
+200 episodes - episode_reward: 98.850 [-50.000, 200.000] - loss: 137.225 - mae: 107.996 - mean_q: 116.720
+
+Interval 296 (2950000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3130
+200 episodes - episode_reward: 115.650 [-50.000, 190.000] - loss: 130.489 - mae: 103.892 - mean_q: 112.331
+
+Interval 297 (2960000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3170
+200 episodes - episode_reward: 115.850 [-20.000, 200.000] - loss: 127.220 - mae: 103.146 - mean_q: 111.531
+
+Interval 298 (2970000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2280
+200 episodes - episode_reward: 111.400 [-40.000, 190.000] - loss: 135.861 - mae: 107.154 - mean_q: 115.825
+
+Interval 299 (2980000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.2840
+200 episodes - episode_reward: 114.200 [-30.000, 200.000] - loss: 135.193 - mae: 106.959 - mean_q: 115.491
+
+Interval 300 (2990000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1870
+200 episodes - episode_reward: 109.350 [-50.000, 210.000] - loss: 133.771 - mae: 106.777 - mean_q: 115.325
+
+Interval 301 (3000000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1740
+200 episodes - episode_reward: 108.700 [-50.000, 190.000] - loss: 133.043 - mae: 105.680 - mean_q: 114.164
+
+Interval 302 (3010000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.6100
+200 episodes - episode_reward: 80.500 [-50.000, 220.000] - loss: 130.764 - mae: 105.073 - mean_q: 113.769
+
+Interval 303 (3020000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: -0.2270
+200 episodes - episode_reward: -11.350 [-50.000, 90.000] - loss: 158.614 - mae: 115.591 - mean_q: 124.458
+
+Interval 304 (3030000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.0700
+200 episodes - episode_reward: 3.500 [-50.000, 140.000] - loss: 105.943 - mae: 92.620 - mean_q: 99.502
+
+Interval 305 (3040000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.7750
+200 episodes - episode_reward: 38.750 [-50.000, 160.000] - loss: 64.657 - mae: 71.550 - mean_q: 77.097
+
+Interval 306 (3050000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.9140
+200 episodes - episode_reward: 95.700 [-30.000, 170.000] - loss: 51.189 - mae: 63.696 - mean_q: 69.143
+
+Interval 307 (3060000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 1.9910
+200 episodes - episode_reward: 99.550 [-40.000, 190.000] - loss: 67.194 - mae: 73.448 - mean_q: 79.967
+
+Interval 308 (3070000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1750
+200 episodes - episode_reward: 108.750 [-50.000, 210.000] - loss: 100.200 - mae: 90.215 - mean_q: 98.260
+
+Interval 309 (3080000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1660
+200 episodes - episode_reward: 108.300 [-30.000, 210.000] - loss: 130.588 - mae: 104.363 - mean_q: 113.207
+
+Interval 310 (3090000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3820
+200 episodes - episode_reward: 119.100 [-40.000, 200.000] - loss: 132.891 - mae: 105.606 - mean_q: 114.379
+
+Interval 311 (3100000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4500
+200 episodes - episode_reward: 122.500 [10.000, 190.000] - loss: 130.286 - mae: 104.471 - mean_q: 113.060
+
+Interval 312 (3110000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4530
+200 episodes - episode_reward: 122.650 [-10.000, 220.000] - loss: 129.105 - mae: 105.089 - mean_q: 113.717
+
+Interval 313 (3120000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2920
+200 episodes - episode_reward: 114.600 [0.000, 200.000] - loss: 136.450 - mae: 107.230 - mean_q: 115.964
+
+Interval 314 (3130000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3020
+200 episodes - episode_reward: 115.100 [-50.000, 200.000] - loss: 133.868 - mae: 105.883 - mean_q: 114.537
+
+Interval 315 (3140000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3360
+200 episodes - episode_reward: 116.800 [-10.000, 200.000] - loss: 136.360 - mae: 107.056 - mean_q: 115.711
+
+Interval 316 (3150000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3200
+200 episodes - episode_reward: 116.000 [-50.000, 210.000] - loss: 134.678 - mae: 106.625 - mean_q: 115.230
+
+Interval 317 (3160000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0240
+200 episodes - episode_reward: 101.200 [-50.000, 200.000] - loss: 135.810 - mae: 107.283 - mean_q: 115.955
+
+Interval 318 (3170000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4530
+200 episodes - episode_reward: 122.650 [10.000, 240.000] - loss: 134.414 - mae: 107.529 - mean_q: 116.172
+
+Interval 319 (3180000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2600
+200 episodes - episode_reward: 113.000 [-50.000, 180.000] - loss: 138.441 - mae: 108.419 - mean_q: 117.111
+
+Interval 320 (3190000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4110
+200 episodes - episode_reward: 120.550 [-20.000, 230.000] - loss: 136.823 - mae: 107.933 - mean_q: 116.646
+
+Interval 321 (3200000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4730
+200 episodes - episode_reward: 123.650 [-40.000, 230.000] - loss: 131.500 - mae: 105.944 - mean_q: 114.504
+
+Interval 322 (3210000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.2150
+200 episodes - episode_reward: 60.750 [-50.000, 200.000] - loss: 165.860 - mae: 117.122 - mean_q: 126.858
+
+Interval 323 (3220000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3450
+200 episodes - episode_reward: 117.250 [-30.000, 190.000] - loss: 149.914 - mae: 113.031 - mean_q: 122.193
+
+Interval 324 (3230000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1060
+200 episodes - episode_reward: 105.300 [-30.000, 200.000] - loss: 140.131 - mae: 109.333 - mean_q: 118.145
+
+Interval 325 (3240000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2590
+200 episodes - episode_reward: 112.950 [-30.000, 180.000] - loss: 136.553 - mae: 107.084 - mean_q: 115.824
+
+Interval 326 (3250000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4240
+200 episodes - episode_reward: 121.200 [0.000, 220.000] - loss: 133.808 - mae: 106.352 - mean_q: 114.927
+
+Interval 327 (3260000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3340
+200 episodes - episode_reward: 116.700 [-50.000, 220.000] - loss: 129.533 - mae: 105.564 - mean_q: 114.046
+
+Interval 328 (3270000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2870
+200 episodes - episode_reward: 114.350 [-50.000, 240.000] - loss: 127.944 - mae: 103.636 - mean_q: 111.883
+
+Interval 329 (3280000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2580
+200 episodes - episode_reward: 112.900 [-40.000, 190.000] - loss: 126.501 - mae: 103.234 - mean_q: 111.305
+
+Interval 330 (3290000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2780
+200 episodes - episode_reward: 113.900 [-50.000, 210.000] - loss: 133.331 - mae: 105.597 - mean_q: 114.079
+
+Interval 331 (3300000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2090
+200 episodes - episode_reward: 110.450 [-50.000, 210.000] - loss: 135.652 - mae: 107.126 - mean_q: 115.737
+
+Interval 332 (3310000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1470
+200 episodes - episode_reward: 107.350 [-40.000, 210.000] - loss: 135.218 - mae: 105.787 - mean_q: 114.357
+
+Interval 333 (3320000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2700
+200 episodes - episode_reward: 113.500 [-50.000, 220.000] - loss: 134.927 - mae: 106.296 - mean_q: 114.992
+
+Interval 334 (3330000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.3210
+200 episodes - episode_reward: 66.050 [-50.000, 180.000] - loss: 141.418 - mae: 110.012 - mean_q: 118.977
+
+Interval 335 (3340000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: -0.3740
+200 episodes - episode_reward: -18.700 [-50.000, 60.000] - loss: 148.576 - mae: 111.903 - mean_q: 120.180
+
+Interval 336 (3350000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: -0.0400
+200 episodes - episode_reward: -2.000 [-50.000, 180.000] - loss: 99.141 - mae: 90.696 - mean_q: 97.401
+
+Interval 337 (3360000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.1490
+200 episodes - episode_reward: 7.450 [-50.000, 150.000] - loss: 68.237 - mae: 73.241 - mean_q: 79.176
+
+Interval 338 (3370000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.7220
+200 episodes - episode_reward: 86.100 [-50.000, 190.000] - loss: 87.556 - mae: 83.361 - mean_q: 90.865
+
+Interval 339 (3380000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2850
+200 episodes - episode_reward: 114.250 [-50.000, 200.000] - loss: 118.420 - mae: 101.291 - mean_q: 109.914
+
+Interval 340 (3390000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3530
+200 episodes - episode_reward: 117.650 [-50.000, 190.000] - loss: 120.328 - mae: 101.190 - mean_q: 109.832
+
+Interval 341 (3400000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3040
+200 episodes - episode_reward: 115.200 [-50.000, 220.000] - loss: 130.905 - mae: 105.832 - mean_q: 115.004
+
+Interval 342 (3410000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.5910
+200 episodes - episode_reward: 29.550 [-50.000, 200.000] - loss: 190.053 - mae: 125.751 - mean_q: 136.268
+
+Interval 343 (3420000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2650
+200 episodes - episode_reward: 113.250 [-50.000, 230.000] - loss: 143.890 - mae: 109.617 - mean_q: 118.394
+
+Interval 344 (3430000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4330
+200 episodes - episode_reward: 121.650 [-40.000, 200.000] - loss: 132.277 - mae: 104.394 - mean_q: 113.064
+
+Interval 345 (3440000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4500
+200 episodes - episode_reward: 122.500 [-30.000, 200.000] - loss: 136.868 - mae: 106.710 - mean_q: 115.830
+
+Interval 346 (3450000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2720
+200 episodes - episode_reward: 113.600 [-50.000, 190.000] - loss: 141.667 - mae: 108.944 - mean_q: 117.992
+
+Interval 347 (3460000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0660
+200 episodes - episode_reward: 103.300 [-50.000, 230.000] - loss: 139.521 - mae: 108.462 - mean_q: 117.344
+
+Interval 348 (3470000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.7400
+200 episodes - episode_reward: 87.000 [-50.000, 200.000] - loss: 157.587 - mae: 115.035 - mean_q: 124.291
+
+Interval 349 (3480000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3130
+200 episodes - episode_reward: 115.650 [-20.000, 200.000] - loss: 144.700 - mae: 110.702 - mean_q: 119.560
+
+Interval 350 (3490000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.8930
+200 episodes - episode_reward: 94.650 [-50.000, 190.000] - loss: 146.197 - mae: 111.500 - mean_q: 120.415
+
+Interval 351 (3500000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.5070
+200 episodes - episode_reward: 125.350 [10.000, 270.000] - loss: 147.911 - mae: 112.345 - mean_q: 121.386
+
+Interval 352 (3510000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4040
+200 episodes - episode_reward: 120.200 [-40.000, 230.000] - loss: 144.159 - mae: 109.738 - mean_q: 118.460
+
+Interval 353 (3520000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4390
+200 episodes - episode_reward: 121.950 [-50.000, 220.000] - loss: 143.016 - mae: 109.465 - mean_q: 118.293
+
+Interval 354 (3530000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3180
+200 episodes - episode_reward: 115.900 [-50.000, 220.000] - loss: 142.185 - mae: 109.128 - mean_q: 117.959
+
+Interval 355 (3540000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3160
+200 episodes - episode_reward: 115.800 [-40.000, 190.000] - loss: 140.728 - mae: 109.603 - mean_q: 118.468
+
+Interval 356 (3550000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3330
+200 episodes - episode_reward: 116.650 [-10.000, 210.000] - loss: 141.246 - mae: 109.134 - mean_q: 118.108
+
+Interval 357 (3560000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3350
+200 episodes - episode_reward: 116.750 [-50.000, 200.000] - loss: 139.838 - mae: 109.575 - mean_q: 118.622
+
+Interval 358 (3570000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3620
+200 episodes - episode_reward: 118.100 [-20.000, 210.000] - loss: 144.886 - mae: 110.130 - mean_q: 119.336
+
+Interval 359 (3580000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0960
+200 episodes - episode_reward: 104.800 [-50.000, 210.000] - loss: 148.209 - mae: 110.698 - mean_q: 119.731
+
+Interval 360 (3590000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0700
+200 episodes - episode_reward: 103.500 [-40.000, 210.000] - loss: 141.626 - mae: 109.864 - mean_q: 118.891
+
+Interval 361 (3600000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3000
+200 episodes - episode_reward: 115.000 [-40.000, 190.000] - loss: 147.002 - mae: 110.215 - mean_q: 119.155
+
+Interval 362 (3610000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2790
+200 episodes - episode_reward: 113.950 [-30.000, 230.000] - loss: 134.676 - mae: 106.553 - mean_q: 115.072
+
+Interval 363 (3620000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3210
+200 episodes - episode_reward: 116.050 [-30.000, 210.000] - loss: 127.796 - mae: 104.590 - mean_q: 112.932
+
+Interval 364 (3630000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2450
+200 episodes - episode_reward: 112.250 [-50.000, 230.000] - loss: 125.195 - mae: 102.672 - mean_q: 110.871
+
+Interval 365 (3640000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4080
+200 episodes - episode_reward: 120.400 [-20.000, 200.000] - loss: 120.573 - mae: 100.236 - mean_q: 108.134
+
+Interval 366 (3650000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2300
+200 episodes - episode_reward: 111.500 [-40.000, 210.000] - loss: 133.011 - mae: 104.977 - mean_q: 113.659
+
+Interval 367 (3660000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2660
+200 episodes - episode_reward: 113.300 [-30.000, 210.000] - loss: 129.732 - mae: 104.859 - mean_q: 113.529
+
+Interval 368 (3670000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3290
+200 episodes - episode_reward: 116.450 [-50.000, 210.000] - loss: 132.853 - mae: 105.306 - mean_q: 114.108
+
+Interval 369 (3680000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2360
+200 episodes - episode_reward: 111.800 [-20.000, 220.000] - loss: 139.262 - mae: 107.630 - mean_q: 116.803
+
+Interval 370 (3690000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.7340
+200 episodes - episode_reward: 36.700 [-50.000, 190.000] - loss: 163.193 - mae: 117.306 - mean_q: 127.038
+
+Interval 371 (3700000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: -0.1160
+200 episodes - episode_reward: -5.800 [-50.000, 120.000] - loss: 148.356 - mae: 111.418 - mean_q: 119.902
+
+Interval 372 (3710000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.8890
+200 episodes - episode_reward: 94.450 [-50.000, 200.000] - loss: 112.167 - mae: 97.036 - mean_q: 105.403
+
+Interval 373 (3720000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2070
+200 episodes - episode_reward: 110.350 [-40.000, 210.000] - loss: 130.712 - mae: 103.735 - mean_q: 112.663
+
+Interval 374 (3730000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2880
+200 episodes - episode_reward: 114.400 [-50.000, 200.000] - loss: 128.797 - mae: 104.672 - mean_q: 113.508
+
+Interval 375 (3740000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2190
+200 episodes - episode_reward: 110.950 [-50.000, 200.000] - loss: 129.504 - mae: 106.022 - mean_q: 114.712
+
+Interval 376 (3750000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3120
+200 episodes - episode_reward: 115.600 [-10.000, 200.000] - loss: 128.327 - mae: 105.136 - mean_q: 113.721
+
+Interval 377 (3760000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2680
+200 episodes - episode_reward: 113.400 [-50.000, 200.000] - loss: 122.447 - mae: 100.742 - mean_q: 108.728
+
+Interval 378 (3770000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2970
+200 episodes - episode_reward: 114.850 [-40.000, 210.000] - loss: 122.402 - mae: 101.298 - mean_q: 109.478
+
+Interval 379 (3780000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2350
+200 episodes - episode_reward: 111.750 [-30.000, 200.000] - loss: 125.911 - mae: 103.638 - mean_q: 112.025
+
+Interval 380 (3790000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2450
+200 episodes - episode_reward: 112.250 [-40.000, 180.000] - loss: 130.609 - mae: 104.355 - mean_q: 112.916
+
+Interval 381 (3800000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2720
+200 episodes - episode_reward: 113.600 [-50.000, 210.000] - loss: 131.485 - mae: 104.164 - mean_q: 112.814
+
+Interval 382 (3810000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3190
+200 episodes - episode_reward: 115.950 [-40.000, 200.000] - loss: 132.999 - mae: 104.859 - mean_q: 113.669
+
+Interval 383 (3820000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2910
+200 episodes - episode_reward: 114.550 [-50.000, 190.000] - loss: 124.922 - mae: 103.237 - mean_q: 111.814
+
+Interval 384 (3830000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3150
+200 episodes - episode_reward: 115.750 [-20.000, 210.000] - loss: 125.613 - mae: 103.145 - mean_q: 111.557
+
+Interval 385 (3840000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4420
+200 episodes - episode_reward: 122.100 [-40.000, 210.000] - loss: 126.494 - mae: 102.614 - mean_q: 111.022
+
+Interval 386 (3850000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3840
+200 episodes - episode_reward: 119.200 [-30.000, 220.000] - loss: 125.017 - mae: 101.265 - mean_q: 109.499
+
+Interval 387 (3860000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2510
+200 episodes - episode_reward: 112.550 [-50.000, 190.000] - loss: 126.055 - mae: 103.256 - mean_q: 111.564
+
+Interval 388 (3870000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2440
+200 episodes - episode_reward: 112.200 [-40.000, 230.000] - loss: 129.537 - mae: 104.212 - mean_q: 112.446
+
+Interval 389 (3880000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2760
+200 episodes - episode_reward: 113.800 [-50.000, 200.000] - loss: 127.756 - mae: 104.118 - mean_q: 112.469
+
+Interval 390 (3890000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3130
+200 episodes - episode_reward: 115.650 [-50.000, 200.000] - loss: 130.744 - mae: 105.538 - mean_q: 114.087
+
+Interval 391 (3900000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2870
+200 episodes - episode_reward: 114.350 [-40.000, 200.000] - loss: 131.036 - mae: 105.835 - mean_q: 114.292
+
+Interval 392 (3910000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4050: 0s - reward: 2
+200 episodes - episode_reward: 120.250 [-30.000, 220.000] - loss: 122.557 - mae: 100.825 - mean_q: 108.894
+
+Interval 393 (3920000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4400
+200 episodes - episode_reward: 122.000 [-20.000, 210.000] - loss: 123.337 - mae: 101.445 - mean_q: 109.615
+
+Interval 394 (3930000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3800
+200 episodes - episode_reward: 119.000 [-30.000, 210.000] - loss: 126.690 - mae: 102.119 - mean_q: 110.225
+
+Interval 395 (3940000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4160
+200 episodes - episode_reward: 120.800 [-20.000, 220.000] - loss: 127.249 - mae: 104.243 - mean_q: 112.416
+
+Interval 396 (3950000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3460
+200 episodes - episode_reward: 117.300 [10.000, 190.000] - loss: 131.532 - mae: 104.012 - mean_q: 112.179
+
+Interval 397 (3960000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3880
+200 episodes - episode_reward: 119.400 [-40.000, 230.000] - loss: 126.202 - mae: 102.899 - mean_q: 110.945
+
+Interval 398 (3970000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3740
+200 episodes - episode_reward: 118.700 [-40.000, 190.000] - loss: 126.719 - mae: 103.164 - mean_q: 111.376
+
+Interval 399 (3980000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.5210
+200 episodes - episode_reward: 126.050 [20.000, 230.000] - loss: 129.009 - mae: 103.055 - mean_q: 111.354
+
+Interval 400 (3990000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4680
+200 episodes - episode_reward: 123.400 [-20.000, 220.000] - loss: 129.771 - mae: 104.900 - mean_q: 113.148
+
+Interval 401 (4000000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4510
+200 episodes - episode_reward: 122.550 [30.000, 190.000] - loss: 128.644 - mae: 104.206 - mean_q: 112.453
+
+Interval 402 (4010000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3640
+200 episodes - episode_reward: 118.200 [-40.000, 220.000] - loss: 132.002 - mae: 106.449 - mean_q: 114.882
+
+Interval 403 (4020000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4020
+200 episodes - episode_reward: 120.100 [-10.000, 220.000] - loss: 134.541 - mae: 105.333 - mean_q: 113.795
+
+Interval 404 (4030000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3860
+200 episodes - episode_reward: 119.300 [-40.000, 210.000] - loss: 135.068 - mae: 106.833 - mean_q: 115.535
+
+Interval 405 (4040000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2910
+200 episodes - episode_reward: 114.550 [-50.000, 210.000] - loss: 134.039 - mae: 105.773 - mean_q: 114.124
+
+Interval 406 (4050000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4090
+200 episodes - episode_reward: 120.450 [-40.000, 210.000] - loss: 132.562 - mae: 105.655 - mean_q: 114.095
+
+Interval 407 (4060000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4390
+200 episodes - episode_reward: 121.950 [-40.000, 200.000] - loss: 129.116 - mae: 104.843 - mean_q: 113.000
+
+Interval 408 (4070000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2610
+200 episodes - episode_reward: 113.050 [-50.000, 200.000] - loss: 134.093 - mae: 105.578 - mean_q: 113.847
+
+Interval 409 (4080000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3270
+200 episodes - episode_reward: 116.350 [-40.000, 200.000] - loss: 133.006 - mae: 106.418 - mean_q: 114.965
+
+Interval 410 (4090000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4560
+200 episodes - episode_reward: 122.800 [-30.000, 220.000] - loss: 138.874 - mae: 108.052 - mean_q: 116.803
+
+Interval 411 (4100000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2780
+200 episodes - episode_reward: 113.900 [-50.000, 210.000] - loss: 145.690 - mae: 110.517 - mean_q: 119.562
+
+Interval 412 (4110000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2870
+200 episodes - episode_reward: 114.350 [-30.000, 200.000] - loss: 138.037 - mae: 107.475 - mean_q: 116.060
+
+Interval 413 (4120000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1190
+200 episodes - episode_reward: 105.950 [-50.000, 230.000] - loss: 134.665 - mae: 107.200 - mean_q: 115.800
+
+Interval 414 (4130000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3810
+200 episodes - episode_reward: 119.050 [-40.000, 220.000] - loss: 131.390 - mae: 105.205 - mean_q: 113.629
+
+Interval 415 (4140000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3760
+200 episodes - episode_reward: 118.800 [-40.000, 240.000] - loss: 130.539 - mae: 104.484 - mean_q: 113.085
+
+Interval 416 (4150000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3300
+200 episodes - episode_reward: 116.500 [-20.000, 190.000] - loss: 135.448 - mae: 106.379 - mean_q: 115.338
+
+Interval 417 (4160000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3700: 0s - reward
+200 episodes - episode_reward: 118.500 [-40.000, 210.000] - loss: 136.196 - mae: 107.249 - mean_q: 116.086
+
+Interval 418 (4170000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4070
+200 episodes - episode_reward: 120.350 [-40.000, 180.000] - loss: 130.663 - mae: 104.034 - mean_q: 112.775
+
+Interval 419 (4180000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4210
+200 episodes - episode_reward: 121.050 [-40.000, 210.000] - loss: 129.333 - mae: 102.947 - mean_q: 111.662
+
+Interval 420 (4190000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3370
+200 episodes - episode_reward: 116.850 [-50.000, 220.000] - loss: 127.832 - mae: 103.291 - mean_q: 111.792
+
+Interval 421 (4200000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.2070
+200 episodes - episode_reward: 110.350 [-50.000, 210.000] - loss: 130.324 - mae: 105.254 - mean_q: 113.799
+
+Interval 422 (4210000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3400
+200 episodes - episode_reward: 117.000 [-50.000, 230.000] - loss: 132.204 - mae: 105.723 - mean_q: 114.294
+
+Interval 423 (4220000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2880
+200 episodes - episode_reward: 114.400 [-50.000, 200.000] - loss: 131.477 - mae: 106.079 - mean_q: 114.583
+
+Interval 424 (4230000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3740
+200 episodes - episode_reward: 118.700 [-10.000, 230.000] - loss: 132.275 - mae: 106.365 - mean_q: 114.868
+
+Interval 425 (4240000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4560
+200 episodes - episode_reward: 122.800 [-40.000, 210.000] - loss: 127.944 - mae: 105.072 - mean_q: 113.530
+
+Interval 426 (4250000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3050
+200 episodes - episode_reward: 115.250 [-50.000, 200.000] - loss: 128.299 - mae: 104.057 - mean_q: 112.351
+
+Interval 427 (4260000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2830
+200 episodes - episode_reward: 114.150 [-40.000, 210.000] - loss: 133.127 - mae: 104.943 - mean_q: 113.268
+
+Interval 428 (4270000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3160
+200 episodes - episode_reward: 115.800 [-20.000, 200.000] - loss: 135.292 - mae: 106.861 - mean_q: 115.395
+
+Interval 429 (4280000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4530
+200 episodes - episode_reward: 122.650 [-50.000, 210.000] - loss: 136.301 - mae: 108.639 - mean_q: 117.102
+
+Interval 430 (4290000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3840
+200 episodes - episode_reward: 119.200 [-40.000, 200.000] - loss: 133.577 - mae: 105.117 - mean_q: 113.332
+
+Interval 431 (4300000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3930
+200 episodes - episode_reward: 119.650 [-30.000, 210.000] - loss: 126.397 - mae: 102.646 - mean_q: 110.776
+
+Interval 432 (4310000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3000
+200 episodes - episode_reward: 115.000 [-30.000, 210.000] - loss: 129.417 - mae: 104.473 - mean_q: 112.865
+
+Interval 433 (4320000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3380
+200 episodes - episode_reward: 116.900 [-50.000, 200.000] - loss: 128.379 - mae: 104.107 - mean_q: 112.280
+
+Interval 434 (4330000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4640
+200 episodes - episode_reward: 123.200 [-10.000, 190.000] - loss: 123.904 - mae: 102.605 - mean_q: 110.721
+
+Interval 435 (4340000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.9620
+200 episodes - episode_reward: 98.100 [-40.000, 190.000] - loss: 134.162 - mae: 106.353 - mean_q: 114.813
+
+Interval 436 (4350000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2610
+200 episodes - episode_reward: 113.050 [-50.000, 230.000] - loss: 133.674 - mae: 106.392 - mean_q: 114.765
+
+Interval 437 (4360000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3480
+200 episodes - episode_reward: 117.400 [-50.000, 250.000] - loss: 133.732 - mae: 106.789 - mean_q: 115.271
+
+Interval 438 (4370000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0750
+200 episodes - episode_reward: 103.750 [-40.000, 190.000] - loss: 137.987 - mae: 107.252 - mean_q: 115.756
+
+Interval 439 (4380000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.9670
+200 episodes - episode_reward: 98.350 [-50.000, 180.000] - loss: 130.610 - mae: 104.851 - mean_q: 113.168
+
+Interval 440 (4390000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.4240
+200 episodes - episode_reward: 121.200 [0.000, 200.000] - loss: 134.437 - mae: 106.643 - mean_q: 115.315
+
+Interval 441 (4400000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3900: 0s - re
+200 episodes - episode_reward: 119.500 [-30.000, 220.000] - loss: 138.601 - mae: 107.371 - mean_q: 116.505
+
+Interval 442 (4410000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.5120
+200 episodes - episode_reward: 125.600 [-10.000, 210.000] - loss: 137.438 - mae: 107.519 - mean_q: 116.446
+
+Interval 443 (4420000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.1070
+200 episodes - episode_reward: 105.350 [-30.000, 210.000] - loss: 132.963 - mae: 106.176 - mean_q: 114.922
+
+Interval 444 (4430000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.2600
+200 episodes - episode_reward: 113.000 [-50.000, 200.000] - loss: 128.659 - mae: 104.496 - mean_q: 112.886
+
+Interval 445 (4440000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0230
+200 episodes - episode_reward: 101.150 [-50.000, 190.000] - loss: 132.089 - mae: 105.807 - mean_q: 114.275
+
+Interval 446 (4450000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: -0.1850
+200 episodes - episode_reward: -9.250 [-50.000, 100.000] - loss: 146.348 - mae: 112.399 - mean_q: 121.032
+
+Interval 447 (4460000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.8240
+200 episodes - episode_reward: 41.200 [-50.000, 190.000] - loss: 103.150 - mae: 92.795 - mean_q: 99.755
+
+Interval 448 (4470000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3640
+200 episodes - episode_reward: 118.200 [-30.000, 240.000] - loss: 100.584 - mae: 91.795 - mean_q: 99.508
+
+Interval 449 (4480000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3200
+200 episodes - episode_reward: 116.000 [-40.000, 230.000] - loss: 118.982 - mae: 100.208 - mean_q: 108.627
+
+Interval 450 (4490000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3560
+200 episodes - episode_reward: 117.800 [20.000, 220.000] - loss: 124.253 - mae: 102.590 - mean_q: 111.193
+
+Interval 451 (4500000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3060
+200 episodes - episode_reward: 115.300 [-50.000, 230.000] - loss: 122.293 - mae: 102.190 - mean_q: 110.799
+
+Interval 452 (4510000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.3900
+200 episodes - episode_reward: 119.500 [-30.000, 230.000] - loss: 131.359 - mae: 105.866 - mean_q: 114.646
+
+Interval 453 (4520000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 0.1660
+200 episodes - episode_reward: 8.300 [-50.000, 220.000] - loss: 153.834 - mae: 113.041 - mean_q: 122.083
+
+Interval 454 (4530000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 0.3010
+200 episodes - episode_reward: 15.050 [-50.000, 150.000] - loss: 118.447 - mae: 99.823 - mean_q: 107.367
+
+Interval 455 (4540000 steps performed)
+10000/10000 [==============================] - 54s 5ms/step - reward: 1.3510
+200 episodes - episode_reward: 67.550 [-50.000, 190.000] - loss: 82.864 - mae: 82.752 - mean_q: 89.412
+
+Interval 456 (4550000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.0130
+200 episodes - episode_reward: 100.650 [-50.000, 190.000] - loss: 77.128 - mae: 78.431 - mean_q: 85.221
+
+Interval 457 (4560000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.1480
+200 episodes - episode_reward: 107.400 [-30.000, 170.000] - loss: 110.941 - mae: 96.148 - mean_q: 104.494
+
+Interval 458 (4570000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3210
+200 episodes - episode_reward: 116.050 [-30.000, 210.000] - loss: 119.844 - mae: 101.174 - mean_q: 109.666
+
+Interval 459 (4580000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: -0.0890
+200 episodes - episode_reward: -4.450 [-50.000, 150.000] - loss: 162.571 - mae: 117.842 - mean_q: 127.337
+
+Interval 460 (4590000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: -0.2900
+200 episodes - episode_reward: -14.500 [-50.000, 170.000] - loss: 127.080 - mae: 102.164 - mean_q: 109.677
+
+Interval 461 (4600000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 0.2490
+200 episodes - episode_reward: 12.450 [-50.000, 180.000] - loss: 82.880 - mae: 82.392 - mean_q: 89.008
+
+Interval 462 (4610000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 1.3070
+200 episodes - episode_reward: 65.350 [-50.000, 240.000] - loss: 63.484 - mae: 70.969 - mean_q: 76.977
+
+Interval 463 (4620000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 1.9010
+200 episodes - episode_reward: 95.050 [-50.000, 190.000] - loss: 85.875 - mae: 83.820 - mean_q: 91.064
+
+Interval 464 (4630000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3530
+200 episodes - episode_reward: 117.650 [-20.000, 200.000] - loss: 107.245 - mae: 94.396 - mean_q: 102.380
+
+Interval 465 (4640000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.2280
+200 episodes - episode_reward: 111.400 [-50.000, 200.000] - loss: 119.448 - mae: 100.047 - mean_q: 108.229
+
+Interval 466 (4650000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.4070
+200 episodes - episode_reward: 120.350 [-40.000, 200.000] - loss: 126.037 - mae: 102.323 - mean_q: 110.677
+
+Interval 467 (4660000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3730
+200 episodes - episode_reward: 118.650 [-30.000, 240.000] - loss: 128.567 - mae: 105.285 - mean_q: 113.917
+
+Interval 468 (4670000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.4330
+200 episodes - episode_reward: 121.650 [20.000, 200.000] - loss: 133.415 - mae: 105.308 - mean_q: 113.846
+
+Interval 469 (4680000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.4000
+200 episodes - episode_reward: 120.000 [-50.000, 230.000] - loss: 126.164 - mae: 102.454 - mean_q: 110.584
+
+Interval 470 (4690000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.1890
+200 episodes - episode_reward: 109.450 [-30.000, 210.000] - loss: 128.414 - mae: 104.045 - mean_q: 112.269
+
+Interval 471 (4700000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.4520
+200 episodes - episode_reward: 122.600 [-30.000, 210.000] - loss: 125.457 - mae: 103.005 - mean_q: 111.344
+
+Interval 472 (4710000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3960
+200 episodes - episode_reward: 119.800 [-10.000, 200.000] - loss: 131.891 - mae: 105.043 - mean_q: 113.597
+
+Interval 473 (4720000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 0.6740
+200 episodes - episode_reward: 33.700 [-50.000, 200.000] - loss: 169.336 - mae: 119.063 - mean_q: 128.690
+
+Interval 474 (4730000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 1.8270
+200 episodes - episode_reward: 91.350 [-50.000, 210.000] - loss: 159.501 - mae: 117.050 - mean_q: 125.918
+
+Interval 475 (4740000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.1590
+200 episodes - episode_reward: 107.950 [-20.000, 190.000] - loss: 124.728 - mae: 103.307 - mean_q: 111.484
+
+Interval 476 (4750000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3360
+200 episodes - episode_reward: 116.800 [-30.000, 230.000] - loss: 132.689 - mae: 105.004 - mean_q: 113.581
+
+Interval 477 (4760000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.0260
+200 episodes - episode_reward: 101.300 [-40.000, 170.000] - loss: 129.686 - mae: 103.639 - mean_q: 112.130
+
+Interval 478 (4770000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3660
+200 episodes - episode_reward: 118.300 [-30.000, 210.000] - loss: 119.641 - mae: 100.511 - mean_q: 108.814
+
+Interval 479 (4780000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 1.0110
+200 episodes - episode_reward: 50.550 [-50.000, 180.000] - loss: 161.644 - mae: 116.671 - mean_q: 126.311
+
+Interval 480 (4790000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: -0.5320
+200 episodes - episode_reward: -26.600 [-50.000, 130.000] - loss: 178.150 - mae: 122.884 - mean_q: 131.654
+
+Interval 481 (4800000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: -0.1330
+200 episodes - episode_reward: -6.650 [-50.000, 120.000] - loss: 97.483 - mae: 90.504 - mean_q: 97.146
+
+Interval 482 (4810000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 0.1160
+200 episodes - episode_reward: 5.800 [-50.000, 130.000] - loss: 61.802 - mae: 70.314 - mean_q: 75.812
+
+Interval 483 (4820000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 0.6370
+200 episodes - episode_reward: 31.850 [-50.000, 210.000] - loss: 44.325 - mae: 59.503 - mean_q: 64.452
+
+Interval 484 (4830000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 1.6350
+200 episodes - episode_reward: 81.750 [-50.000, 190.000] - loss: 46.550 - mae: 61.107 - mean_q: 66.503
+
+Interval 485 (4840000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: 2.0610
+200 episodes - episode_reward: 103.050 [-40.000, 210.000] - loss: 78.743 - mae: 79.763 - mean_q: 86.787
+
+Interval 486 (4850000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.0240
+200 episodes - episode_reward: 101.200 [-50.000, 200.000] - loss: 98.924 - mae: 90.375 - mean_q: 98.336
+
+Interval 487 (4860000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.1600
+200 episodes - episode_reward: 108.000 [-40.000, 200.000] - loss: 125.460 - mae: 101.350 - mean_q: 110.172
+
+Interval 488 (4870000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3790
+200 episodes - episode_reward: 118.950 [-30.000, 210.000] - loss: 133.331 - mae: 105.926 - mean_q: 115.041
+
+Interval 489 (4880000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3410
+200 episodes - episode_reward: 117.050 [-20.000, 190.000] - loss: 136.554 - mae: 107.224 - mean_q: 116.545
+
+Interval 490 (4890000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3040
+200 episodes - episode_reward: 115.200 [-10.000, 220.000] - loss: 129.478 - mae: 104.220 - mean_q: 113.003
+
+Interval 491 (4900000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 1.2690
+200 episodes - episode_reward: 63.450 [-50.000, 220.000] - loss: 149.224 - mae: 111.437 - mean_q: 121.029
+
+Interval 492 (4910000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 1.2240
+200 episodes - episode_reward: 61.200 [-50.000, 190.000] - loss: 154.360 - mae: 114.259 - mean_q: 123.315
+
+Interval 493 (4920000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.5130
+200 episodes - episode_reward: 125.650 [10.000, 220.000] - loss: 124.874 - mae: 102.361 - mean_q: 110.863
+
+Interval 494 (4930000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.4800
+200 episodes - episode_reward: 124.000 [-10.000, 210.000] - loss: 133.273 - mae: 105.115 - mean_q: 113.895
+
+Interval 495 (4940000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.4530
+200 episodes - episode_reward: 122.650 [40.000, 210.000] - loss: 129.806 - mae: 104.759 - mean_q: 113.261
+
+Interval 496 (4950000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 2.3760
+200 episodes - episode_reward: 118.800 [-30.000, 220.000] - loss: 126.675 - mae: 102.476 - mean_q: 110.909
+
+Interval 497 (4960000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: -0.1600
+200 episodes - episode_reward: -8.000 [-50.000, 200.000] - loss: 221.928 - mae: 136.556 - mean_q: 147.307
+
+Interval 498 (4970000 steps performed)
+10000/10000 [==============================] - 48s 5ms/step - reward: -0.3560
+200 episodes - episode_reward: -17.800 [-50.000, 120.000] - loss: 147.822 - mae: 110.421 - mean_q: 118.141
+
+Interval 499 (4980000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 0.1250
+200 episodes - episode_reward: 6.250 [-50.000, 130.000] - loss: 75.655 - mae: 78.007 - mean_q: 84.005
+
+Interval 500 (4990000 steps performed)
+10000/10000 [==============================] - 49s 5ms/step - reward: 1.2420
+done, took 24144.091 seconds
