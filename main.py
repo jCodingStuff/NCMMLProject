@@ -8,7 +8,7 @@ import ui_func as ui
 
 pygame.init()
 screen = pygame.display.set_mode((WINDOW_PIXELS, WINDOW_PIXELS))
-pygame.display.set_caption('Extraction Game')
+pygame.display.set_caption('Resource Extraction Game')
 
 env = GridworldMultiAgent(gridsize=5, nb_agents=2, nb_resources=2, screen=screen)
 
