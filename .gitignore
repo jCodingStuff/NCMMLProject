@@ -1,6 +1,9 @@
 # JetBrains
 .idea/*
 
+# Running file
+main.py
+
 # Agents
 agents/checkpoint
 
