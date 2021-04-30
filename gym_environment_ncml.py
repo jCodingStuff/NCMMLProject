@@ -5,6 +5,7 @@ import pygame
 from pygame import Rect
 from csettings import *
 
+
 # Resource extraction game environment class
 class GridworldMultiAgent(Env):
 
