@@ -14,13 +14,13 @@ env = GridworldMultiAgent(gridsize=5, nb_agents=2, nb_resources=2, screen=screen
 
 states = env.observation_space.shape[0]
 actions = env.action_space.n
-model = build_model(states, actions, [30, 30], ['relu', 'relu'])
+model = build_model(states, actions, [32, 16], ['relu', 'relu'])
 print(model.summary())
 dqn = build_agent(model, actions, 0.01, BoltzmannQPolicy(), 50000)
 dqn.compile(Adam(lr=1e-3), metrics=['mae'])
 
 # Load weights
-dqn.load_weights('agents/dqn_3030_trial.h5f')
+dqn.load_weights('agents/dqn_5b5_3216_adam_lr0.001_tmu0.01_m50K_ns5M.h5f')
 
 while True:
     ui.check_events(env, dqn)
