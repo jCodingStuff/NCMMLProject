@@ -1,7 +1,7 @@
 import pygame
 from tensorflow.keras.optimizers import Adam
 from rl.policy import BoltzmannQPolicy
-from gym_environment_ncml import GridworldMultiAgent
+from gym_environment_ncml import *
 from csettings import *
 from learning import *
 import ui_func as ui
@@ -10,7 +10,7 @@ pygame.init()
 screen = pygame.display.set_mode((WINDOW_PIXELS, WINDOW_PIXELS))
 pygame.display.set_caption('Resource Extraction Game')
 
-env = GridworldMultiAgent(gridsize=5, nb_agents=2, nb_resources=2, screen=screen)
+env = GridworldMultiAgentv2(gridsize=5, nb_agents=2, nb_resources=2, radius=1, screen=screen)
 
 states = env.observation_space.shape[0]
 actions = env.action_space.n
