@@ -19,3 +19,6 @@ def build_agent(model, actions, tmu, policy, ml):
     dqn = DQNAgent(model=model, memory=memory, policy=policy, nb_actions=actions, nb_steps_warmup=100,
                    target_model_update=tmu)
     return dqn
+
+def get_agent_path(name):
+    return "agents/{}/{}.h5f".format(name, name)
