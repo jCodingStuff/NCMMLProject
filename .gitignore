@@ -5,7 +5,7 @@
 main.py
 
 # Agents
-agents/checkpoint
+checkpoint*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

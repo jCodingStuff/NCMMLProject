@@ -20,5 +20,10 @@ def build_agent(model, actions, tmu, policy, ml):
                    target_model_update=tmu)
     return dqn
 
+
 def get_agent_path(name):
     return "agents/{}/{}.h5f".format(name, name)
+
+
+def get_training_path(name):
+    return "agents/{}/{}_training.json".format(name, name)

@@ -10,7 +10,7 @@ pygame.init()
 screen = pygame.display.set_mode((WINDOW_PIXELS, WINDOW_PIXELS))
 pygame.display.set_caption('Resource Extraction Game')
 
-env = GridworldMultiAgentv2(gridsize=5, nb_agents=2, nb_resources=2, radius=1, screen=screen)
+env = GridworldMultiAgentv25(gridsize=5, nb_agents=2, nb_resources=2, screen=screen, debug=True)
 
 states = env.observation_space.shape[0]
 actions = env.action_space.n
@@ -20,7 +20,7 @@ dqn = build_agent(model, actions, 0.01, BoltzmannQPolicy(), 50000)
 dqn.compile(Adam(lr=1e-3), metrics=['mae'])
 
 # Load weights
-dqn.load_weights(get_agent_path("dqn_5b5_3216_adam_lr0.001_tmu0.01_ml50K_ns5M"))
+dqn.load_weights(get_agent_path('dqn25_5b5_3236_adam_lr0.001_tmu0.01_ml50K_ns5M_eps0.1'))
 
 while True:
     ui.check_events(env, dqn)
