@@ -11,7 +11,7 @@ class GridworldMultiAgentv1(Env):
 
     # Initialization function (constructor)
     def __init__(self, nb_agents=2, nb_resources=2, gridsize=5, nb_steps=50, reward_extracting=10.0, reward_else=-1.0,
-                 screen=None):
+                 screen=None, debug=False):
         # nb_agents:            Number of agents
         # nb_resources:         Number of resources
         # gridsize:             Size of square grid
@@ -19,6 +19,8 @@ class GridworldMultiAgentv1(Env):
         # reward_extracting:    Resource extraction reward value
         # reward_else:          Default reward value
         # screen:               Pygame graphics rendering object
+
+        self.debug = debug
 
         # Activate graphics if specified
         if screen is not None:
@@ -102,7 +104,9 @@ class GridworldMultiAgentv1(Env):
             done = True
         info = {}
 
-        # print("reward: ", reward)
+        if self.debug:
+            print("Reward:", reward)
+
         return self.observe(), reward, done, info
 
     # Environment reset function
@@ -155,7 +159,7 @@ class GridworldMultiAgentv15(Env):
 
     # Initialization function (constructor)
     def __init__(self, nb_agents=2, nb_resources=2, gridsize=5, nb_steps=50, reward_extracting=10.0, reward_else=-1.0,
-                 screen=None):
+                 screen=None, debug=False):
         # nb_agents:            Number of agents
         # nb_resources:         Number of resources
         # gridsize:             Size of square grid
@@ -163,6 +167,8 @@ class GridworldMultiAgentv15(Env):
         # reward_extracting:    Resource extraction reward value
         # reward_else:          Default reward value
         # screen:               Pygame graphics rendering object
+
+        self.debug = debug
 
         # Activate graphics if specified
         if screen is not None:
@@ -246,7 +252,9 @@ class GridworldMultiAgentv15(Env):
             done = True
         info = {}
 
-        # print("reward: ", reward)
+        if self.debug:
+            print("Reward:", reward)
+
         return self.observe(), reward, done, info
 
     # Environment reset function
@@ -303,7 +311,7 @@ class GridworldMultiAgentv2(Env):
 
     # Initialization function (constructor)
     def __init__(self, nb_agents=2, agent_power=1, nb_resources=2, nb_civilians=5, gridsize=5, radius=1, nb_steps=50,
-                 reward_extracting=10.0, alpha=6, beta=0, reward_else=-1.0, screen=None):
+                 reward_extracting=10.0, alpha=6, beta=0, reward_else=-1.0, screen=None, debug=False):
         # nb_agents:            Number of agents
         # nb_resources:         Number of resources
         # gridsize:             Size of square grid
@@ -311,6 +319,8 @@ class GridworldMultiAgentv2(Env):
         # reward_extracting:    Resource extraction reward value
         # reward_else:          Default reward value
         # screen:               Pygame graphics rendering object
+
+        self.debug = debug
 
         # Activate graphics if specified
         if screen is not None:
@@ -417,7 +427,9 @@ class GridworldMultiAgentv2(Env):
             done = True
         info = {}
 
-        # print("reward: ", reward)
+        if self.debug:
+            print("Reward:", reward)
+
         return self.observe(), reward, done, info
 
     # Environment reset function
