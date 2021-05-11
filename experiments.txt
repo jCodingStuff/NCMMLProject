@@ -1,5 +1,5 @@
 For v1 (JULIÁN) and v1.5 (ANDERS)
-Train (5M) with default parameters (NOT DONE)
+Train (5M) with default parameters (v1 DONE, v1.5 NOT DONE)
 Plot training (NOT DONE)	
 Test it (100K) with seed=2 --> Violin plot (NOT DONE)
 Show 12 frames (NOT DONE)
