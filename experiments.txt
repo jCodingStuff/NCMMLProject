@@ -12,7 +12,7 @@ Show 12 frames (NOT DONE)
 
 For v2.5 (qualitative)
 Train (5M) for alpha=[6, 7, 8, 9, 10] (DONE)
-Show 12 frames () (NOT DONE)
+Show 12 frames (NOT DONE)
 
 For v3 (qualitative)
 Delay the respawning of the resources ?????
