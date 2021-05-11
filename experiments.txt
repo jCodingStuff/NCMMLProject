@@ -1,0 +1,25 @@
+For v1 (JULIÁN) and v1.5 (ANDERS)
+Train (5M) with default parameters (NOT DONE)
+Plot training (NOT DONE)	
+Test it (100K) with seed=2 --> Violin plot (NOT DONE)
+Show 12 frames (NOT DONE)
+
+For v2 and 2.5
+Train (EMIL) v2 (5M) with default parameters (NOT DONE)
+Plot training (NOT DONE)
+Test it (100K) with seed=2 --> Violin plot (NOT DONE)
+Show 12 frames (NOT DONE)
+
+For v2.5 (qualitative)
+Train (5M) for alpha=[6, 7, 8, 9, 10] (DONE)
+Show 12 frames () (NOT DONE)
+
+For v3 (qualitative)
+Delay the respawning of the resources ?????
+
+
+Future work:
+Transfer into other grid sizes
+Train in larger grids, with more agents, civilians and resources
+Different radius and agent power
+Continuous computational domain / environment

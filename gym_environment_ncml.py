@@ -11,7 +11,7 @@ class GridworldMultiAgentv1(Env):
 
     # Initialization function (constructor)
     def __init__(self, nb_agents=2, nb_resources=2, gridsize=5, nb_steps=50, reward_extracting=10.0, reward_else=-1.0,
-                 screen=None, debug=False):
+                 seed=1, screen=None, debug=False):
         # nb_agents:            Number of agents
         # nb_resources:         Number of resources
         # gridsize:             Size of square grid
@@ -46,7 +46,7 @@ class GridworldMultiAgentv1(Env):
             [self.gridsize] * 2 * self.nb_resources + [self.gridsize] * 2 * self.nb_agents)
 
         # Set random seed for testing
-        np.random.seed(1)
+        np.random.seed(seed)
         # Randomize starting coordinates [x,y] for agents and resources
         self.state_agent = np.random.randint(self.gridsize, size=(self.nb_agents, 2))
         self.state_resources = np.random.randint(self.gridsize, size=(self.nb_resources, 2))
@@ -159,7 +159,7 @@ class GridworldMultiAgentv15(Env):
 
     # Initialization function (constructor)
     def __init__(self, nb_agents=2, nb_resources=2, gridsize=5, nb_steps=50, reward_extracting=10.0, reward_else=-1.0,
-                 screen=None, debug=False):
+                 seed=1, screen=None, debug=False):
         # nb_agents:            Number of agents
         # nb_resources:         Number of resources
         # gridsize:             Size of square grid
@@ -194,7 +194,7 @@ class GridworldMultiAgentv15(Env):
                                      np.ones(2 * self.nb_resources + 2 * self.nb_agents))
 
         # Set random seed for testing
-        np.random.seed(1)
+        np.random.seed(seed)
         # Randomize starting coordinates [x,y] for agents and resources
         self.state_agent = np.random.randint(self.gridsize, size=(self.nb_agents, 2))
         self.state_resources = np.random.randint(self.gridsize, size=(self.nb_resources, 2))
@@ -311,7 +311,7 @@ class GridworldMultiAgentv2(Env):
 
     # Initialization function (constructor)
     def __init__(self, nb_agents=2, agent_power=1, nb_resources=2, nb_civilians=5, gridsize=5, radius=1, nb_steps=50,
-                 reward_extracting=10.0, alpha=6, beta=0, reward_else=-1.0, screen=None, debug=False):
+                 reward_extracting=10.0, alpha=6, beta=0, reward_else=-1.0, seed=1, screen=None, debug=False):
         # nb_agents:            Number of agents
         # nb_resources:         Number of resources
         # gridsize:             Size of square grid
@@ -352,7 +352,7 @@ class GridworldMultiAgentv2(Env):
             [self.gridsize] * 2 * self.nb_civilians)
 
         # Set random seed for testing
-        np.random.seed(1)
+        np.random.seed(seed)
         # Randomize starting coordinates [x,y] for agents and resources
         self.state_agent = np.random.randint(self.gridsize, size=(self.nb_agents, 2))
         self.state_resources = np.random.randint(self.gridsize, size=(self.nb_resources, 2))
@@ -498,7 +498,7 @@ class GridworldMultiAgentv25(Env):
 
     # Initialization function (constructor)
     def __init__(self, nb_agents=2, agent_power=1, nb_resources=2, nb_civilians=5, gridsize=5, radius=1, nb_steps=50,
-                 reward_extracting=10.0, alpha=6, beta=0, reward_else=-1.0, screen=None, debug=False):
+                 reward_extracting=10.0, alpha=6, beta=0, reward_else=-1.0, seed=1, screen=None, debug=False):
         # nb_agents:            Number of agents
         # nb_resources:         Number of resources
         # gridsize:             Size of square grid
@@ -539,7 +539,7 @@ class GridworldMultiAgentv25(Env):
                                      np.ones(3 * self.nb_resources + 2 * self.nb_agents))
 
         # Set random seed for testing
-        np.random.seed(1)
+        np.random.seed(seed)
         # Randomize starting coordinates [x,y] for agents and resources
         self.state_agent = np.random.randint(self.gridsize, size=(self.nb_agents, 2))
         self.state_resources = np.random.randint(self.gridsize, size=(self.nb_resources, 2))
