@@ -15,7 +15,7 @@ env = GridworldMultiAgentv25(gridsize=5, nb_agents=2, nb_resources=2, alpha=10, 
 states = env.observation_space.shape[0]
 actions = env.action_space.n
 model = build_model(states, actions, [32, 16], ['relu', 'relu'])
-print(model.summary())
+# print(model.summary())
 dqn = build_agent(model, actions, 0.01, EpsGreedyQPolicy(), 50000)
 dqn.compile(Adam(lr=1e-3), metrics=['mae'])
 
@@ -23,5 +23,5 @@ dqn.compile(Adam(lr=1e-3), metrics=['mae'])
 dqn.load_weights(get_agent_path('dqn25_5b5_3236_adam_lr0.001_tmu0.01_ml50K_ns5M_eps0.1_a10'))
 
 while True:
-    ui.check_events(env, dqn)
+    ui.check_events(screen, env, dqn)
     env.render()
