@@ -27,3 +27,7 @@ def get_agent_path(name):
 
 def get_training_path(name):
     return "agents/{}/{}_training.json".format(name, name)
+
+
+def get_test_path(name, nb_episodes):
+    return 'agents/{}/{}_test_{}episodes.txt'.format(name, name, nb_episodes)
