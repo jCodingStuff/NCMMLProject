@@ -903,7 +903,7 @@ class GridworldMultiAgentv3(Env):
         return np.concatenate((np.array(norm_resources), norm_agents))
 
 
-# Resource extraction game environment class, v.3.0
+# Resource extraction game environment class, v.3.5
 class GridworldMultiAgentv35(Env):
 
     # Initialization function (constructor)
