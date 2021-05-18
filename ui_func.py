@@ -72,3 +72,19 @@ def check_keydown_event(event, screen, env, agent):
                             env.nb_civilians, env.radius, env.reward_extracting, env.reward_else, env.alpha,
                             env.beta, frame_count)
             )
+        elif isinstance(env, GridworldMultiAgentv3):
+            name = 'frames/env3_{}b{}_a{}_ap{}_r{}_c{}_radius{}_rext{}_relse{}_alpha{}_beta{}_frame{}.jpg'
+            pygame.image.save(
+                screen,
+                name.format(env.gridsize, env.gridsize, env.nb_agents, env.agent_power, env.nb_resources,
+                            env.nb_civilians, env.radius, env.reward_extracting, env.reward_else, env.alpha,
+                            env.beta, frame_count)
+            )
+        elif isinstance(env, GridworldMultiAgentv35):
+            name = 'frames/env35_{}b{}_a{}_ap{}_r{}_c{}_radius{}_rext{}_relse{}_alpha{}_beta{}_frame{}.jpg'
+            pygame.image.save(
+                screen,
+                name.format(env.gridsize, env.gridsize, env.nb_agents, env.agent_power, env.nb_resources,
+                            env.nb_civilians, env.radius, env.reward_extracting, env.reward_else, env.alpha,
+                            env.beta, frame_count)
+            )
