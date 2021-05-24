@@ -12,6 +12,7 @@ frames/*
 !frames/env1_lazy_agent
 !frames/env25_a6_split
 !frames/env25_a10_union
+!frames/env35_6b6_stuck
 !frames/env35_split_1
 !frames/env35_split_2
 !frames/env35_union_1
