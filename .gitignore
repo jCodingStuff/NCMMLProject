@@ -9,6 +9,13 @@ checkpoint*
 
 # Frames
 frames/*
+!frames/env1_lazy_agent
+!frames/env25_a6_split
+!frames/env25_a10_union
+!frames/env35_split_1
+!frames/env35_split_2
+!frames/env35_union_1
+!frames/env35_union_2
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
