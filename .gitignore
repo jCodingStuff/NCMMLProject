@@ -9,6 +9,7 @@ checkpoint*
 
 # Frames
 frames/*
+!frames/demo
 !frames/env1_lazy_agent
 !frames/env25_a6_split
 !frames/env25_a10_union
