@@ -1,0 +1,6 @@
+conda config --add channels conda-forge
+conda create --name RL python=3.7 jupyter numpy scipy matplotlib gym
+conda activate RL
+pip install tensorflow==2.1.0
+pip install pygame
+pip install keras-rl2
