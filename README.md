@@ -10,4 +10,4 @@ Controls:
 - R: reset environment
 - Q: quit
 
-This environment is built on top of [OpenAI Gym](https://gym.openai.com/).
+This environment is built on top of <a href="https://gym.openai.com/" target="_blank">OpenAI Gym</a>.
