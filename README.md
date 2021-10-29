@@ -2,7 +2,7 @@
 
 <img src="/imgs/Thumbnail.png" alt="Thumbnail" width="70%"/>
 
-Please watch this video (in process) to get started.
+Please watch this video (in progress) to get started.
 
 Controls:
 - SPACE: random action
