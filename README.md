@@ -2,7 +2,7 @@
 
 <img src="/imgs/Thumbnail.png" alt="Thumbnail" width="70%"/>
 
-Please watch this video (in progress) to get started.
+Please watch <a href="https://youtu.be/tYtp1F1NswY" target="_blank">this video</a> to get started.
 
 Controls:
 - SPACE: random action
@@ -10,4 +10,4 @@ Controls:
 - R: reset environment
 - Q: quit
 
-This environment is built on top of <a href="https://gym.openai.com/" target="_blank">OpenAI Gym</a>.
+This game is built on top of <a href="https://gym.openai.com/" target="_blank">OpenAI Gym</a>.
