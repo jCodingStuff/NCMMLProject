@@ -10,4 +10,4 @@ Controls:
 - `R`: reset environment
 - `Q`: quit
 
-This game is built on top of <a href="https://gym.openai.com/" target="_blank">OpenAI Gym</a>.
+This game is built on top of <a href="https://www.gymlibrary.dev/" target="_blank">OpenAI Gym</a>.
